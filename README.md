@@ -6,8 +6,8 @@ The idea of this repository is to keep all the Tienda Nube sketch system organiz
 # Quickstart 😎
 1. We are going to keep up to date our sketch files with [kaktus](https://github.com/kactus-io/kactus). Is a tool to bring proper version control (as in git) to designers (only sketch users for now).
 2. Clone the repo in your local enviroment. You can do it, going to `clone or download` and click in `Open in Desktop`. 
-3. Once you have the repo in kaktus, you can start creating a branch. Importan!: Do it from `development` branch. 
-4. Remember to create a Pull request for all your changes. Add a Tienda Nube reviewer to watch your changes.
+3. Once you have the repo in kaktus, you can start creating a branch. Important! Do it from the `development` branch
+4. Remember to create a pull request for all your changes. Add a Tienda Nube reviewer to watch your changes.
 
 
 # Components
