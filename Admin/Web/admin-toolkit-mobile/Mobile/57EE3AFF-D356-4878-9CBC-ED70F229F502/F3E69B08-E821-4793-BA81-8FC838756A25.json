@@ -1,0 +1,57 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "F3E69B08-E821-4793-BA81-8FC838756A25",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "513EC1F4-5BA8-457B-A4BA-7BAC1574F5EE",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "0CE995ED-6A91-4748-8C06-CE6B0E6AC356",
+    "height": 33,
+    "width": 140,
+    "x": 81,
+    "y": 145
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "name": "Link-secondary/withIcon",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "96E3CFE8-85F5-4FFB-A054-C6B372300269_stringValue",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "1B89D117-FAB0-47C2-888B-832CF507B06F_stringValue",
+      "value": "Cancelar pedido"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "3BF0B08F-AD48-4996-B77E-260A8A2F33B6",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "47FEB05F-2DBD-48CA-B60A-23A53B36DEFB",
+  "verticalSpacing": 0
+}

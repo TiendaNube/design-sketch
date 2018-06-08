@@ -1,0 +1,68 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "C4E271A2-75CF-4F99-968F-9B493063335E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "3BFB34A0-AFFB-421E-B969-B87A076B8793",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "D86AD14B-AD2B-4077-B090-B192A1D2629D",
+    "height": 40,
+    "width": 360,
+    "x": 0,
+    "y": 150
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "name": "orders-status copy 2",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "E5665444-3025-4990-A26F-2496284121CF_stringValue",
+      "value": "Frete"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "A1969E1C-D4BE-40CC-98CC-FB8A0459937B_stringValue",
+      "value": "Pronta para embalar"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "772FB61A-32EA-48F7-BC0A-46E8A1B5035B_symbolID",
+      "value": "FCDCB036-D80D-4C36-8F36-80F121D38828"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "487C78A4-44EA-4DA1-A503-A8B3C3D66DD4",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "57796E39-6829-41E5-AC8F-72385C258516",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

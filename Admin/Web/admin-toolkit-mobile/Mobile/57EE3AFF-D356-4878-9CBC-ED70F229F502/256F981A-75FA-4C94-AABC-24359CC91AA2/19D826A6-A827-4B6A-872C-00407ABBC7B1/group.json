@@ -1,0 +1,67 @@
+{
+  "_class": "group",
+  "do_objectID": "19D826A6-A827-4B6A-872C-00407ABBC7B1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "2E39E91E-6F29-42C4-B987-7D46FFE550BA",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "F4486431-4279-4B90-965B-DD01C9A5D844",
+    "height": 135,
+    "width": 359,
+    "x": 0,
+    "y": 1245
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "CB930653-9BB8-4C00-B47A-772D6AFA517D"
+    },
+    {
+      "class": "group",
+      "id": "2CF56540-2863-455D-8731-C0D24770738D"
+    },
+    {
+      "class": "text",
+      "id": "E1B7E066-8A15-4C4A-965E-B43CBBF3B29B"
+    },
+    {
+      "class": "text",
+      "id": "B45ECA9C-95FA-45C3-BBA9-07EC26D06243"
+    }
+  ],
+  "name": "Medio de pago Copy 2",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "CFB822A6-9AA7-4751-9B4F-7D7B46CA074E",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      },
+      "kViewTypeKey": ""
+    }
+  }
+}

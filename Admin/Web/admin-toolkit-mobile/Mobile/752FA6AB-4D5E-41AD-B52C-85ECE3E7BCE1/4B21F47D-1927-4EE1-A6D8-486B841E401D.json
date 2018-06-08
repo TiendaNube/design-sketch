@@ -1,0 +1,68 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "4B21F47D-1927-4EE1-A6D8-486B841E401D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "DB380D9F-0351-41DF-9D07-5AB20769F8F6",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "61316DAA-A2CD-4285-AC19-ECBAEADF5D38",
+    "height": 40,
+    "width": 360,
+    "x": 0,
+    "y": 75
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "name": "orders-status copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "E5665444-3025-4990-A26F-2496284121CF_stringValue",
+      "value": "Meio de pagamento"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "A1969E1C-D4BE-40CC-98CC-FB8A0459937B_stringValue",
+      "value": "Esperando sua confirmação de pagamento"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "772FB61A-32EA-48F7-BC0A-46E8A1B5035B_symbolID",
+      "value": "3BD06CEB-8A63-44AD-8142-4B8000428308"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "7ACFBDF8-8EB7-49F8-BD7B-D564CC27AE5A",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "57796E39-6829-41E5-AC8F-72385C258516",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

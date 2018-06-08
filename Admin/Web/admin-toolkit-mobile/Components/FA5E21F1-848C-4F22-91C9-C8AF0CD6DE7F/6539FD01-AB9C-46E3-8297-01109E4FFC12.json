@@ -1,0 +1,71 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "6539FD01-AB9C-46E3-8297-01109E4FFC12",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E8B90B07-92F8-49AA-BD8B-F44B6B265F7C",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "43473471-95B1-448E-854B-BF47B89B262E",
+    "height": 122,
+    "width": 159,
+    "x": 74,
+    "y": 803
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "card-color copy 9",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "1ED81C81-FCEB-48EC-B1F9-53BF23066012",
+      "overrideName": "AF016A93-7967-42DF-BB51-EB230D40D88E_stringValue",
+      "value": "Primary light"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "1ED88FD8-48E4-4044-840D-E454EB4E6B36",
+      "overrideName": "58D9CFD4-3065-42B4-A169-FD7466889EC6_stringValue",
+      "value": "#FFB30E 30%"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "662D04D3-48CE-4B34-9DCD-68C3D264C1B4",
+      "overrideName": "5F6246EA-9AD7-4777-BF94-201B0FBB9A27_symbolID",
+      "value": "9246C358-F0DD-4BC9-B721-4B10CCD58337"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "2D7658C1-33D3-4AE2-AB25-A57C23DDE5E6",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "3354B637-AB1B-4312-BF6E-4B6D358EB864",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

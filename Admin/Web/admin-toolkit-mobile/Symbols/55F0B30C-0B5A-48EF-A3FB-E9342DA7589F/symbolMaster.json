@@ -1,0 +1,84 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "7547D62F-5CF4-4491-960B-8DDE488BE896",
+    "green": 1,
+    "red": 1
+  },
+  "changeIdentifier": 351,
+  "do_objectID": "55F0B30C-0B5A-48EF-A3FB-E9342DA7589F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D9637AE8-6350-43BD-A95C-BE03656C099D",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E2EBCCCC-7B69-44A5-BFD4-80F47A08F5C6",
+    "height": 24,
+    "width": 24,
+    "x": 100,
+    "y": 4978
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "C2E44BCB-4DD9-4C84-B2E0-2D0F0BC4F2F7",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "AEAFCA14-1A33-4FAD-8535-C4991326120B"
+    }
+  ],
+  "name": "Products on",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "1F573499-DCD7-4204-8866-7D243A059A1B",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "0E46E588-2208-4FC5-A441-344828F148DC",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "3E3E1CD0-6E08-4095-B4B1-D10F32CD702D",
+    "guides": [
+    ]
+  }
+}

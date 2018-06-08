@@ -1,0 +1,63 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "662DF97F-33FF-4711-997A-2C25C05616BA",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "90945F4C-B13A-4B7D-A75A-5E8B71BED391",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "31A9679F-08CA-49ED-B433-ABC3F4E64040",
+    "height": 41.48648648648634,
+    "width": 261.1000000000004,
+    "x": 0,
+    "y": 442.8682432432427
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "name": "link-item-menu copy 8",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "30BEE695-1745-4BF4-A65D-8731FE1770CC_stringValue",
+      "value": "Minha conta"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "54320170-CCD2-4E8B-88CB-3A950C2DC435_symbolID",
+      "value": "FB8E4DF1-CF45-4DB7-8D7C-67D69870108D"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "0EDC7F62-2432-4EBD-9740-7EDFCC543126",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "42E98653-5ACE-478E-9A9D-9FA8F9F8F3F8",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

@@ -1,0 +1,84 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "B70A7C9A-7527-46F0-8DCF-1CCD5616EE19",
+    "green": 1,
+    "red": 1
+  },
+  "changeIdentifier": 2865,
+  "do_objectID": "2C614DBB-8032-4CAB-9AC4-2FA0B2158DB9",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "9178F6FC-3FE2-414E-85DD-FE3338B82BBA",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C22DE472-D883-4D56-9B90-2DD28338A507",
+    "height": 24,
+    "width": 24,
+    "x": 286,
+    "y": 4234
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "2C1C317A-BF3C-4403-8B7F-1CE3B4FD1452",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "5E99D407-D1E2-494A-BA6F-C3150B3BF7C2"
+    }
+  ],
+  "name": "conta",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "B8DB8609-FE8D-4338-AC9D-AE54E3F0A331",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "FB8E4DF1-CF45-4DB7-8D7C-67D69870108D",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "5EB3D882-0825-4371-A0EE-427033FD476A",
+    "guides": [
+    ]
+  }
+}
