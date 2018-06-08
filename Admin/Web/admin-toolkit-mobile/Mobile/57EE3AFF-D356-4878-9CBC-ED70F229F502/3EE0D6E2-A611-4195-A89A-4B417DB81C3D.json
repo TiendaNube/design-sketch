@@ -1,0 +1,57 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "3EE0D6E2-A611-4195-A89A-4B417DB81C3D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F297EFEB-E9CE-4AB9-BC28-97843CF6E587",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "6D40FD3C-2532-4864-BE7E-54AA5EC72697",
+    "height": 33,
+    "width": 140,
+    "x": 215,
+    "y": 145
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "name": "Link-secondary/withIcon Copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "96E3CFE8-85F5-4FFB-A054-C6B372300269_stringValue",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "1B89D117-FAB0-47C2-888B-832CF507B06F_stringValue",
+      "value": "Arquivar pedido"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "00614CD8-4D1B-4AE2-A2B0-2FDE7DCB8357",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "47FEB05F-2DBD-48CA-B60A-23A53B36DEFB",
+  "verticalSpacing": 0
+}

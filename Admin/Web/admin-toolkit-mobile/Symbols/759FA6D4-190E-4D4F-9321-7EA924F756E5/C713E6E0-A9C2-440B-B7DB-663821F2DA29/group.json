@@ -1,0 +1,63 @@
+{
+  "_class": "group",
+  "do_objectID": "C713E6E0-A9C2-440B-B7DB-663821F2DA29",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 135,
+    "width": 301,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "808FF1DF-4BF2-4E9B-A850-E24C91FE01A8"
+    },
+    {
+      "class": "group",
+      "id": "8ADAE5A9-8889-449A-BDD0-B1255721CF99"
+    },
+    {
+      "class": "text",
+      "id": "572486E9-28F5-434A-9068-277AFC559630"
+    },
+    {
+      "class": "text",
+      "id": "3625A868-A0BE-4776-8AEE-069A4EC8161D"
+    }
+  ],
+  "name": "Card1 Copy",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

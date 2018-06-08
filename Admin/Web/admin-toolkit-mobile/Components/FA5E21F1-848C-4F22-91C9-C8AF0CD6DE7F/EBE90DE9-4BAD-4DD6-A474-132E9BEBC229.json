@@ -1,0 +1,62 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "EBE90DE9-4BAD-4DD6-A474-132E9BEBC229",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 122,
+    "width": 159,
+    "x": 74,
+    "y": 294
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "card-color",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "1ED81C81-FCEB-48EC-B1F9-53BF23066012",
+      "overrideName": "AF016A93-7967-42DF-BB51-EB230D40D88E_stringValue",
+      "value": "Primary"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "1ED88FD8-48E4-4044-840D-E454EB4E6B36",
+      "overrideName": "58D9CFD4-3065-42B4-A169-FD7466889EC6_stringValue",
+      "value": "#4dbecf"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "3354B637-AB1B-4312-BF6E-4B6D358EB864",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

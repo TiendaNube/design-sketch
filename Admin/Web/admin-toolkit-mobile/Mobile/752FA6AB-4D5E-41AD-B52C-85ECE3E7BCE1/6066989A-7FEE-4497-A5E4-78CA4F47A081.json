@@ -1,0 +1,57 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "6066989A-7FEE-4497-A5E4-78CA4F47A081",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "1C72B52F-6359-4DE4-9446-7B11F9CAACA7",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "57F8EEC5-9F1C-493D-A25C-0DCF52DDFDDF",
+    "height": 40,
+    "width": 378,
+    "x": 0,
+    "y": 661
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "name": "orders-status single-info copy 2",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "E5E31A58-B7A6-41E3-9ED5-413235FF43C4_symbolID",
+      "value": "37EB62DF-B505-4DE5-8806-B450BA2A30BD"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "34DEF596-A644-4EE8-BE10-61E4EA80329B_stringValue",
+      "value": "Cancelado manualmente no detalhe do pedido"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "E748E04F-D2FF-41FB-B707-974F7E37B2CA",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "47F76EB0-2F29-4EE4-8CE8-BC96F5709ED3",
+  "verticalSpacing": 0
+}

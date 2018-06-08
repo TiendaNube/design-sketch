@@ -1,0 +1,63 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "871ED3AC-57E1-4A52-A573-9815E72D6682",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "7FE0B49C-8152-46E1-9EA6-59452D8B3AF0",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "F4896E81-9316-4FB2-8552-32B44B807B06",
+    "height": 125,
+    "width": 360,
+    "x": 0,
+    "y": 143
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "name": "orders-list",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "4432F742-4E86-4706-80D6-5CD24A7F54F9/A1969E1C-D4BE-40CC-98CC-FB8A0459937B_stringValue",
+      "value": "Aguardando confirmaçã de pagamento"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "4432F742-4E86-4706-80D6-5CD24A7F54F9/E5665444-3025-4990-A26F-2496284121CF_stringValue",
+      "value": "Pagseguro"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "08FE8286-5E29-424E-A798-CC67A2CAB683",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "E02B4283-EC4B-4D9E-8C82-05F94685F46A",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}
