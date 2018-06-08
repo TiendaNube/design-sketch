@@ -1,0 +1,53 @@
+{
+  "_class": "group",
+  "do_objectID": "87C5B35C-51FC-4380-B76E-7C2766E92DCC",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 17,
+    "width": 24,
+    "x": 17.42957746479078,
+    "y": 1.273592386994324
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "90767BF4-FAD1-4760-BDA0-427C0869080F"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "A4B11AF2-23A6-45EF-9FAF-A6BA0B442C51"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "F93DE56E-4270-4AA6-B9C5-7C08789D1C66"
+    }
+  ],
+  "name": "Hamburguer",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

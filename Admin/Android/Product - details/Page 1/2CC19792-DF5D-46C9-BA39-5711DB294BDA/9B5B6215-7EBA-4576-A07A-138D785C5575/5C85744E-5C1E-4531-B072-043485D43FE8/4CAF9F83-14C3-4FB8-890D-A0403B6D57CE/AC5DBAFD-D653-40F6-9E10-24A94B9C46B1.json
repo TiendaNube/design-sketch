@@ -1,0 +1,65 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "AC5DBAFD-D653-40F6-9E10-24A94B9C46B1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "06B1D0C3-0FDB-48AD-B5CB-DD33EC4F67AF",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B6AAD7B7-A727-4152-8B6A-F8F87E4FD810",
+    "height": 72,
+    "width": 150,
+    "x": 178,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "text-field-short/prefix-price-completed copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "5E77D2E3-2E33-44C5-A393-4D2334E36263",
+      "overrideName": "07FC8269-3C74-4E67-A4B6-850D737E6916_stringValue",
+      "value": "Precio promocional"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "3F965076-8A61-4651-81F0-2A983CF6B75C",
+      "overrideName": "B291E5CF-FDD8-42AA-932F-D792CA73A022_stringValue",
+      "value": "240"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "70A59B89-04CE-4336-BAE9-556D88D11135",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "891306D9-A216-40B6-84B0-3E3E6F834EEC",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

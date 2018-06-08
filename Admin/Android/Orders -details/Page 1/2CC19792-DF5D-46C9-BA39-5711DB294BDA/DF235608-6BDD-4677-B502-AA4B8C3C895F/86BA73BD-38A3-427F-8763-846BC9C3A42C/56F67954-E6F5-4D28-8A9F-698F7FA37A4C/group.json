@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "do_objectID": "56F67954-E6F5-4D28-8A9F-698F7FA37A4C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 295,
+    "width": 360,
+    "x": 0,
+    "y": 378
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "21DB4E89-0262-4D02-8A15-4A34779A09F0"
+    },
+    {
+      "class": "group",
+      "id": "8CF91D5B-1CAD-4301-AB4F-40DF9E475DDA"
+    },
+    {
+      "class": "group",
+      "id": "39C2C34F-0449-4AC9-A89B-B24B7EC4B82C"
+    },
+    {
+      "class": "group",
+      "id": "6B41C777-C3B7-4B28-B136-02007AA6D4A0"
+    }
+  ],
+  "name": "ordenes/dias",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

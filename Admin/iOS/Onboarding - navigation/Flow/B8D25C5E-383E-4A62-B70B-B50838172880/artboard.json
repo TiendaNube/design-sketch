@@ -1,0 +1,110 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "do_objectID": "B8D25C5E-383E-4A62-B70B-B50838172880",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 667,
+    "width": 375,
+    "x": 7377,
+    "y": 212
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "11D3F47C-FD48-4982-87DC-313CB8681E0F"
+    },
+    {
+      "class": "group",
+      "id": "1072E819-38C9-4F1F-8D08-9E4E177B1108"
+    },
+    {
+      "class": "text",
+      "id": "7E5110B6-E749-40C8-850A-847CEFD8FEEF"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "00B46062-43DC-44C2-B489-00F60D11D73E"
+    },
+    {
+      "class": "group",
+      "id": "9D823328-FA23-4A82-9BAE-96AC1165A1AD"
+    },
+    {
+      "class": "group",
+      "id": "B107AAC1-A4DC-44BE-BD4B-28A19E8817DF"
+    },
+    {
+      "class": "text",
+      "id": "A43C32DD-FB67-4FD4-AE0D-1D00FEC06D62"
+    }
+  ],
+  "name": "LEECTURA DOS",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 1,
+    "height": 667,
+    "name": "iPhone 8",
+    "offersLandscapeVariant": 1,
+    "width": 375
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": -285,
+    "guides": [
+      234
+    ]
+  }
+}

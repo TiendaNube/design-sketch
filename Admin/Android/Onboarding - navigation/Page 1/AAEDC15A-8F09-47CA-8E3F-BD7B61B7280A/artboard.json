@@ -1,0 +1,130 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "do_objectID": "AAEDC15A-8F09-47CA-8E3F-BD7B61B7280A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 640,
+    "width": 360,
+    "x": 4143,
+    "y": 748
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "5506FD06-3080-4BF2-A70A-5CC4CEF499C6"
+    },
+    {
+      "class": "group",
+      "id": "C50DC7BF-A5C2-4212-A96D-D83D809A657F"
+    },
+    {
+      "class": "group",
+      "id": "7F076542-E378-4F88-BE92-FDD51640B821"
+    },
+    {
+      "class": "bitmap",
+      "id": "DF09B6B8-0088-4A34-8357-919494DADDDC"
+    },
+    {
+      "class": "group",
+      "id": "3CBE2010-AB71-49D9-B3E8-D7EAEFC01A4D"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "96963E7C-8C10-4D47-86E2-20C3DF005FC7"
+    },
+    {
+      "class": "text",
+      "id": "C132FFF8-B2CE-4E4B-BCC5-4805FFD5481F"
+    },
+    {
+      "class": "bitmap",
+      "id": "34D46119-3375-4F7D-9B45-80F9AFAC3F76"
+    },
+    {
+      "class": "text",
+      "id": "AA2FA820-F0DA-4344-8158-F9D0FCE4920E"
+    },
+    {
+      "class": "text",
+      "id": "B33C9349-9138-4793-80DE-408A82F88230"
+    },
+    {
+      "class": "text",
+      "id": "0C98354B-BD57-4226-8C57-11868862CA50"
+    },
+    {
+      "class": "group",
+      "id": "AFA7576E-1E44-416B-AD67-EF51BFF073D6"
+    }
+  ],
+  "name": "SUCCESS LAYOUT",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+      80,
+      128,
+      638
+    ]
+  }
+}

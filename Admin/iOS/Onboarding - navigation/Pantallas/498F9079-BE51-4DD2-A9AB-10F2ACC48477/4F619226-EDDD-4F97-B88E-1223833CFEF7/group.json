@@ -1,0 +1,49 @@
+{
+  "_class": "group",
+  "do_objectID": "4F619226-EDDD-4F97-B88E-1223833CFEF7",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 39,
+    "width": 330,
+    "x": 23,
+    "y": 273
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "5BD974D6-B112-4B42-BF0D-B3EB31AC9BC9"
+    },
+    {
+      "class": "text",
+      "id": "ED2A2004-499D-4BE7-856C-D188D08BD6EB"
+    }
+  ],
+  "name": "Boton Salvar prod Copy",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

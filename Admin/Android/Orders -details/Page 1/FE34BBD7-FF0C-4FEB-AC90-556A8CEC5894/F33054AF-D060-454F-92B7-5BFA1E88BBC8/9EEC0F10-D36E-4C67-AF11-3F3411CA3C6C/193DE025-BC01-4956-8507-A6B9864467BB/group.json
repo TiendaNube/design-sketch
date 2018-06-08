@@ -1,0 +1,75 @@
+{
+  "_class": "group",
+  "do_objectID": "193DE025-BC01-4956-8507-A6B9864467BB",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 133,
+    "width": 346,
+    "x": 8,
+    "y": 986
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "EC49B60F-DF65-4563-9AD9-362CA32DC8AB"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "B3607DF7-02B2-477E-B08F-95E077648C7B"
+    },
+    {
+      "class": "text",
+      "id": "BB128DE1-DAF3-4278-A48E-18FB56DA7627"
+    },
+    {
+      "class": "text",
+      "id": "858B85E3-4C89-4D35-8763-BB653658D76A"
+    },
+    {
+      "class": "text",
+      "id": "22FB8D47-A9D9-4A01-9194-242EC98B5066"
+    },
+    {
+      "class": "group",
+      "id": "5055BB7C-C0BD-4AA6-94E8-D85C6AD741AF"
+    },
+    {
+      "class": "text",
+      "id": "02FC18E7-FA45-4FDB-911A-32CDFFE9449D"
+    }
+  ],
+  "name": "corrioes copy 2",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

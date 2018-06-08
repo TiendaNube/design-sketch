@@ -1,0 +1,71 @@
+{
+  "_class": "group",
+  "do_objectID": "59A391F3-E772-454F-876F-6C1D04EEAC4F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 226,
+    "width": 344,
+    "x": 8,
+    "y": 198
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "C133FFC0-11D6-4DB2-8A63-3A542B1A0CA5"
+    },
+    {
+      "class": "text",
+      "id": "0D4A7659-7761-4725-B290-E6A6ED33337C"
+    },
+    {
+      "class": "text",
+      "id": "E71B58BD-797B-47B9-A269-280BA15FDC33"
+    },
+    {
+      "class": "text",
+      "id": "606EC9D7-194C-4763-AB5D-E939B4E57139"
+    },
+    {
+      "class": "group",
+      "id": "46DCC9BD-08E2-4D2E-900C-26F5BF3564B7"
+    },
+    {
+      "class": "group",
+      "id": "C54580A0-544B-40B4-9A39-ABEC896B9E33"
+    }
+  ],
+  "name": "card 4",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

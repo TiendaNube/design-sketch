@@ -1,0 +1,63 @@
+{
+  "_class": "group",
+  "do_objectID": "95B6436E-9EF0-49EF-9C65-D5EA799656E5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 203,
+    "width": 175,
+    "x": 192.8646616541337,
+    "y": 186.1939614661653
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "43BF1020-C9D7-49CB-8E33-7AF751DF99B3"
+    },
+    {
+      "class": "text",
+      "id": "25CE4AD5-AEED-422F-AD2F-2B410854DF8E"
+    },
+    {
+      "class": "text",
+      "id": "57B79362-8A23-406E-B2B3-323559F966CC"
+    },
+    {
+      "class": "group",
+      "id": "5906DBC2-021E-416A-9C85-DC4085474895"
+    }
+  ],
+  "name": "card 4",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "do_objectID": "8B5B87E7-1F5D-4A12-AC25-AF1893493A58",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 175,
+    "width": 344,
+    "x": 8,
+    "y": 603
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "2EC0DB52-CBDD-4BC2-8B50-47A5BF8AA7C7"
+    },
+    {
+      "class": "text",
+      "id": "C6B2BFD8-03FE-4B42-BDA9-3E83ADDA75E2"
+    },
+    {
+      "class": "text",
+      "id": "87722F00-8E22-470C-944A-3E7BBA78AEC5"
+    },
+    {
+      "class": "bitmap",
+      "id": "B5436493-47B5-4155-9096-1E3403F934BE"
+    },
+    {
+      "class": "group",
+      "id": "7B90D58C-7E6E-4655-ABF2-79E6065AEEE5"
+    }
+  ],
+  "name": "facenook",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "do_objectID": "94546055-A4AD-4FA8-B319-4C8DCE1484D8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 83,
+    "width": 260,
+    "x": 15.51742584745762,
+    "y": 279.7567567567568
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "E64994B6-6357-411F-A518-136BFC889345"
+    },
+    {
+      "class": "group",
+      "id": "45C4F029-C634-49CB-A47B-ECD7B8876A89"
+    },
+    {
+      "class": "group",
+      "id": "A928EB93-DA41-44C0-9F0A-4A69F7E0CE2E"
+    },
+    {
+      "class": "group",
+      "id": "598E8191-560B-48B0-ABF0-05AB2D1C05E4"
+    }
+  ],
+  "name": "sheet",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

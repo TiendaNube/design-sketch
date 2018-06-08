@@ -1,0 +1,67 @@
+{
+  "_class": "group",
+  "do_objectID": "337A6F60-33C4-4AD1-B94B-4417B0CB86C9",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 445,
+    "width": 280,
+    "x": 41,
+    "y": 114
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "B5E7B27C-3B9B-4B87-A030-56EB8E881EB0"
+    },
+    {
+      "class": "group",
+      "id": "74E755BA-34C3-4EEA-BC9C-89A08414DBBC"
+    },
+    {
+      "class": "text",
+      "id": "2DA0988D-6FAF-4185-AAAA-D6D8E23C1FCB"
+    },
+    {
+      "class": "group",
+      "id": "4BC3A50C-25F8-4BE2-A8B7-9907770E7702"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "72CAC352-9ECC-49D1-9D03-F7C9D29F372F"
+    }
+  ],
+  "name": "dialog",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

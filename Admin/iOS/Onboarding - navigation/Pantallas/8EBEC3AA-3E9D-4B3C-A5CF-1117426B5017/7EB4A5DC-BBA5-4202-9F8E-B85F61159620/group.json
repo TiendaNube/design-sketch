@@ -1,0 +1,49 @@
+{
+  "_class": "group",
+  "do_objectID": "7EB4A5DC-BBA5-4202-9F8E-B85F61159620",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 37,
+    "width": 330,
+    "x": 22,
+    "y": 348
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "832512E5-BEBC-49EB-8FD1-EBB350F6F2A4"
+    },
+    {
+      "class": "text",
+      "id": "DDDCC3F7-E9AB-426C-A5A4-00BAA5547D35"
+    }
+  ],
+  "name": "Boton Salvar prod",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

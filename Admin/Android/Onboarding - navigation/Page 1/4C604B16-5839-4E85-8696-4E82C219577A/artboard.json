@@ -1,0 +1,123 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "do_objectID": "4C604B16-5839-4E85-8696-4E82C219577A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 640,
+    "width": 360,
+    "x": 2340,
+    "y": -900
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "bitmap",
+      "id": "755D6308-8E25-4C26-B9FC-48A0F2981981"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "0862DCB8-0BC4-4899-B7CA-3A381F46A49A"
+    },
+    {
+      "class": "text",
+      "id": "E614805C-E70F-433E-985E-8806CD369856"
+    },
+    {
+      "class": "text",
+      "id": "E2B882F7-E1C0-46B2-B9D8-DCFEFE3503DB"
+    },
+    {
+      "class": "group",
+      "id": "E7D30DD7-7DA3-4595-AC21-688FC02FA2D5"
+    },
+    {
+      "class": "group",
+      "id": "E6E80B83-ABCD-4C6B-9A97-2737E3D49F2C"
+    },
+    {
+      "class": "group",
+      "id": "D411958A-0CA0-4604-AD37-469D441316ED"
+    },
+    {
+      "class": "group",
+      "id": "956916BD-8028-460F-A85C-C35702A7EEE8"
+    },
+    {
+      "class": "group",
+      "id": "E1E29F82-1AD4-42CF-8E10-43697027EB0E"
+    },
+    {
+      "class": "group",
+      "id": "579A9AAE-8EBA-438A-84DD-FE91F5BD8AE8"
+    },
+    {
+      "class": "group",
+      "id": "6FB58D22-19E8-4329-B7C3-CF1C96F20B8D"
+    }
+  ],
+  "name": "FACEBOOK LOGIN RUBRO 1 Copy 2",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

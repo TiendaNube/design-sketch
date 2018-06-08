@@ -1,0 +1,125 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "do_objectID": "487E9724-E1D3-475B-829F-4EEAA55E2025",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 667,
+    "width": 375,
+    "x": 8170,
+    "y": -253
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "16458240-558B-4582-B5C4-99C74C71820C"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "58981BB0-429C-44FB-8F4B-162442A3969D"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "EE68420C-F85F-47A0-B564-1425CD847693"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "A39DEB98-9211-443C-A304-1D649A87B110"
+    },
+    {
+      "class": "text",
+      "id": "08405727-DC65-4D00-94FF-F30608C3E39A"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "278146D3-CF9B-4291-85D7-F7C089BEC461"
+    },
+    {
+      "class": "text",
+      "id": "143DC8F7-B6B0-46CB-A11B-3849A4745235"
+    },
+    {
+      "class": "group",
+      "id": "33310DDA-8176-4C65-9EEA-20EE85CD7723"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "113C577A-2E0F-47D7-AF00-81F650E02136"
+    },
+    {
+      "class": "group",
+      "id": "FA74BB1D-D0BC-4B35-AB60-FAE687697511"
+    },
+    {
+      "class": "group",
+      "id": "EB73896F-743A-42DB-8660-A2E0C5EA7534"
+    }
+  ],
+  "name": "Panel mision 2",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 1,
+    "height": 667,
+    "name": "iPhone 8",
+    "offersLandscapeVariant": 1,
+    "width": 375
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

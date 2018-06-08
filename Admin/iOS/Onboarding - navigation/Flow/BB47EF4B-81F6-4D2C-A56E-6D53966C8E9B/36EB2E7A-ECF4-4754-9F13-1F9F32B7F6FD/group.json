@@ -1,0 +1,53 @@
+{
+  "_class": "group",
+  "do_objectID": "36EB2E7A-ECF4-4754-9F13-1F9F32B7F6FD",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 66,
+    "width": 375,
+    "x": 0,
+    "y": 600
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "AED75FE3-7F24-4F71-9FFA-2D470CD5A11C"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "6584485F-DE82-4EDF-A65B-F6CF065A6E2C"
+    },
+    {
+      "class": "text",
+      "id": "46D50D83-6486-44D0-80E8-AC6285D3DACD"
+    }
+  ],
+  "name": "Cancel Button",
+  "nameIsFixed": true,
+  "resizingConstraint": 18,
+  "resizingType": 2,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

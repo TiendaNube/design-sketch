@@ -1,0 +1,84 @@
+{
+  "_class": "group",
+  "do_objectID": "34BA21A0-E1FE-41CF-934C-E9F5666848FF",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 13,
+    "width": 8.000000000000005,
+    "x": 59.99999999999984,
+    "y": 5
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "A5225BEB-4217-43FD-BCF4-E385D72FCB13"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "D2968F76-ED82-4290-A21C-422B2084E0CE"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "3C328F92-0C3A-4EA0-B566-3CB4D7019505"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "BA9A816D-3330-4C8F-BBC1-F4988CAC7D27"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "3A9A0EF8-7695-4D51-B71A-3DE7E5EFF455"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "72870ACC-5D86-4C70-9D0C-4FB09792E238"
+    }
+  ],
+  "name": "battery",
+  "nameIsFixed": true,
+  "originalObjectID": "394BBD24-BE18-4203-8A03-D37C48937738",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 0,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

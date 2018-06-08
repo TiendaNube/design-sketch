@@ -1,0 +1,53 @@
+{
+  "_class": "group",
+  "do_objectID": "C0D49314-EEEF-4D24-8073-FFAE928D3CB3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 36,
+    "width": 109,
+    "x": 226,
+    "y": 165
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "AA2E19B7-5605-4802-A173-CFF640AA33C0"
+    },
+    {
+      "class": "text",
+      "id": "C3B2D49B-64FC-4F9A-9CE0-405708D14B6E"
+    },
+    {
+      "class": "group",
+      "id": "F27B108C-DBF0-468B-BDDE-B2BB467753A0"
+    }
+  ],
+  "name": "ATIVADO",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

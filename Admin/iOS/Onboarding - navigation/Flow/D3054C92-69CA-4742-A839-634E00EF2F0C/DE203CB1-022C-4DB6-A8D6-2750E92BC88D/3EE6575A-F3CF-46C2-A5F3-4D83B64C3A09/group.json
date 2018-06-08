@@ -1,0 +1,49 @@
+{
+  "_class": "group",
+  "do_objectID": "3EE6575A-F3CF-46C2-A5F3-4D83B64C3A09",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 40,
+    "width": 278,
+    "x": 15,
+    "y": 12
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "AAD3C90B-499F-4760-8AA1-0290F4B03C90"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "892B0217-9767-45CE-AC11-0D133FAABC93"
+    }
+  ],
+  "name": "Bin",
+  "nameIsFixed": true,
+  "resizingConstraint": 9,
+  "resizingType": 1,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

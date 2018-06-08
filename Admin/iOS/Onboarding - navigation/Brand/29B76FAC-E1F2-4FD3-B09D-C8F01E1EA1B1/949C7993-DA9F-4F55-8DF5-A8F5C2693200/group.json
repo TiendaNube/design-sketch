@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "do_objectID": "949C7993-DA9F-4F55-8DF5-A8F5C2693200",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 203,
+    "width": 391,
+    "x": -7,
+    "y": 415
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "61E169A6-8C72-4897-BC93-47A23D812F4E"
+    },
+    {
+      "class": "text",
+      "id": "0AFE7270-DFAD-4CD4-AE39-6E6AF9565C63"
+    },
+    {
+      "class": "text",
+      "id": "2049116F-AA81-4FF1-814D-CFCFA7167EEA"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "6F787275-09A7-46AB-8FB2-B2C16D4402ED"
+    },
+    {
+      "class": "group",
+      "id": "3F599426-6D52-4E17-81E9-9CE0DECFC2A1"
+    }
+  ],
+  "name": "pooch copy",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

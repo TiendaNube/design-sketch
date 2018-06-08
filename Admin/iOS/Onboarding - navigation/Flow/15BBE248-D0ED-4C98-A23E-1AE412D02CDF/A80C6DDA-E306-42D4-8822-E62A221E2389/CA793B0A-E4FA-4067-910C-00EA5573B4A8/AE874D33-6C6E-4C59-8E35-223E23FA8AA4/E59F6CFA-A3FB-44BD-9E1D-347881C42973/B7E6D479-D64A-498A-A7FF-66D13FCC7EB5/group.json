@@ -1,0 +1,53 @@
+{
+  "_class": "group",
+  "do_objectID": "B7E6D479-D64A-498A-A7FF-66D13FCC7EB5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 64,
+    "width": 375,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "3621E75F-DB4B-4692-8862-08054460E70F"
+    },
+    {
+      "class": "text",
+      "id": "F64CCBAF-D4F9-4E6C-A053-3CA08B9090F2"
+    },
+    {
+      "class": "text",
+      "id": "E5C98D74-E565-480B-A58D-624002C6F1EA"
+    }
+  ],
+  "name": "Navigation bemvindo",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

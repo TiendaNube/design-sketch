@@ -1,0 +1,121 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "do_objectID": "731A46E3-DD79-48AE-9ED3-6061EA99AB51",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 667,
+    "width": 375,
+    "x": 7953,
+    "y": 1978
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "CF163236-118A-4D98-85A9-119E6BA067D2"
+    },
+    {
+      "class": "group",
+      "id": "22582348-6FDE-49D9-9721-B42C87A2ABE0"
+    },
+    {
+      "class": "group",
+      "id": "BC98C6AB-728D-4AFF-B1EC-9266C9E5ACD7"
+    },
+    {
+      "class": "group",
+      "id": "0389AEFB-B2F9-402C-828F-B67FEA098707"
+    },
+    {
+      "class": "group",
+      "id": "D1A3495D-2D93-4473-A690-A35BAC52236E"
+    },
+    {
+      "class": "group",
+      "id": "403F28D1-4C45-45A6-BD20-C7C5AE2D0F63"
+    },
+    {
+      "class": "group",
+      "id": "3FF91F3B-40BD-4768-B919-DDD71FA541DF"
+    },
+    {
+      "class": "group",
+      "id": "A880BFC8-E927-4975-9450-19175B9C0A10"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "3DE0E27F-D053-406A-AB20-FE7BCB5D65F5"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "CAC0B724-E51F-4FAB-96AF-19D27C011A35"
+    }
+  ],
+  "name": "Producto-listado",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 1,
+    "height": 667,
+    "name": "iPhone 8",
+    "offersLandscapeVariant": 1,
+    "width": 375
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}
