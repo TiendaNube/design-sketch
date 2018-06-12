@@ -4,13 +4,15 @@
     "_class": "color",
     "alpha": 1,
     "blue": 1,
+    "do_objectID": "D04F8783-56AA-4678-A870-C04F6FBBBC62",
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 1829,
-  "do_objectID": "E0994A24-651F-407B-8ECE-06D048995167",
+  "changeIdentifier": 6028,
+  "do_objectID": "50848D4E-C7D1-40C7-AF5B-C24ECC52C8B0",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "8B045C98-E624-4F43-A4E9-0D25A9B5610B",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -21,16 +23,18 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 49,
-    "width": 215,
-    "x": 102,
-    "y": 550
+    "do_objectID": "979BBCE4-68AF-4316-AED5-370036E6B768",
+    "height": 25,
+    "width": 108,
+    "x": 581,
+    "y": 501
   },
   "hasBackgroundColor": false,
   "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
+    "do_objectID": "6FE991B1-7CBA-44AE-8FCD-26313E126AA3",
     "guides": [
     ]
   },
@@ -46,10 +50,10 @@
   "layers": [
     {
       "class": "text",
-      "id": "28FCE30B-C2C4-43E1-85F7-3A740814F104"
+      "id": "96532722-154A-487D-B500-FF40139CA9EE"
     }
   ],
-  "name": "H2 Heading",
+  "name": "H3 mobile",
   "nameIsFixed": true,
   "resizesContent": true,
   "resizingConstraint": 63,
@@ -58,14 +62,16 @@
   "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
+    "do_objectID": "428EF303-7563-4550-8C2D-8744E907E46B",
     "endDecorationType": 0,
     "miterLimit": 10,
     "startDecorationType": 0
   },
-  "symbolID": "49E89456-3AD6-4B4A-A7FC-EEFDB5AE31E7",
+  "symbolID": "3BA02783-DFB7-4702-A964-EF62FAAA4040",
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,
+    "do_objectID": "AEF0ECD6-6F67-4857-A4FF-B08F9B1065FA",
     "guides": [
     ]
   }

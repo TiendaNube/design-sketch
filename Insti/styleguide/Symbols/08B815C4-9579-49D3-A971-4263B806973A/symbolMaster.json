@@ -4,13 +4,15 @@
     "_class": "color",
     "alpha": 1,
     "blue": 1,
+    "do_objectID": "AB5422A3-2D41-4301-96BE-4E55290CFB8E",
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 1829,
-  "do_objectID": "E0994A24-651F-407B-8ECE-06D048995167",
+  "changeIdentifier": 6683,
+  "do_objectID": "08B815C4-9579-49D3-A971-4263B806973A",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "13ED8B7F-3517-49F7-95E7-9EB082BC55E6",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -21,16 +23,18 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 49,
-    "width": 215,
-    "x": 102,
-    "y": 550
+    "do_objectID": "5A27E287-2EE3-4C4B-90CD-DCF6E8FD40E5",
+    "height": 21,
+    "width": 82,
+    "x": 581,
+    "y": 623
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
+    "do_objectID": "65A55507-CC1F-4FD8-B09C-C3590C8D3E56",
     "guides": [
     ]
   },
@@ -42,14 +46,14 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "text",
-      "id": "28FCE30B-C2C4-43E1-85F7-3A740814F104"
+      "id": "49D6F6C1-271A-4F08-94AD-D97A7ACA176A"
     }
   ],
-  "name": "H2 Heading",
+  "name": "H5 mobile",
   "nameIsFixed": true,
   "resizesContent": true,
   "resizingConstraint": 63,
@@ -58,14 +62,16 @@
   "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
+    "do_objectID": "7F60D1D4-FF53-45AE-9D50-199FCC73F5EE",
     "endDecorationType": 0,
     "miterLimit": 10,
     "startDecorationType": 0
   },
-  "symbolID": "49E89456-3AD6-4B4A-A7FC-EEFDB5AE31E7",
+  "symbolID": "4168A9D4-ECC9-4827-B59F-D56E94082C97",
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,
+    "do_objectID": "F5B200BF-556B-41BC-8B3D-D5088E48B6D6",
     "guides": [
     ]
   }
