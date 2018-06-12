@@ -1,0 +1,64 @@
+{
+  "_class": "group",
+  "do_objectID": "3B237083-63F1-4603-9B76-FB79E471C073",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 29,
+    "width": 94,
+    "x": 264,
+    "y": 7
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "17CAB5CC-244A-484D-9104-0C7227AFDD09"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "FD9633F9-08BE-46FA-94ED-C1355F1A703A"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "2C7606D7-B11B-46BC-8911-D38E7F001685"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "666AF354-B4A2-4D6C-AD69-6580CC078938"
+    }
+  ],
+  "name": "Stepper",
+  "nameIsFixed": true,
+  "originalObjectID": "1F90F8D1-1287-44D9-95B8-C4AEE1A9CB35",
+  "resizingConstraint": 44,
+  "resizingType": 1,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

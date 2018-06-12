@@ -1,0 +1,53 @@
+{
+  "_class": "group",
+  "do_objectID": "B767B941-28E4-4AB1-AA7E-1A5A9E44F257",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 304,
+    "width": 344,
+    "x": 8,
+    "y": 149
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": false,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "7DE7940E-1ECB-423C-89A8-A03324776A25"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "76FA1B77-0BA8-4C68-9362-B0CDA4E94FEA"
+    },
+    {
+      "class": "bitmap",
+      "id": "6B0C1BF3-3689-40FC-8701-73E3CD55CE54"
+    }
+  ],
+  "name": "safari",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

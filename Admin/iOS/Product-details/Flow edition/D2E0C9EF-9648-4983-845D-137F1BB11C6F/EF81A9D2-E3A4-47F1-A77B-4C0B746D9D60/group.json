@@ -1,0 +1,63 @@
+{
+  "_class": "group",
+  "do_objectID": "EF81A9D2-E3A4-47F1-A77B-4C0B746D9D60",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 44,
+    "width": 375,
+    "x": 0,
+    "y": 422
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "52507920-24FF-4EC0-80DC-4E18B29312BC"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "698737EE-75CC-45E4-B935-0E266C6614D9"
+    },
+    {
+      "class": "text",
+      "id": "D8F33377-E8B2-4911-A6B8-6AF258B2A2D7"
+    },
+    {
+      "class": "text",
+      "id": "BE57C621-4015-4985-A071-33CDC0ABEF17"
+    }
+  ],
+  "name": "Cell/Cell with Input",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

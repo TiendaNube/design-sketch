@@ -1,0 +1,63 @@
+{
+  "_class": "group",
+  "do_objectID": "5EC0225D-7862-40E7-A98C-7566C0B6329A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 126,
+    "width": 375,
+    "x": 0,
+    "y": 220
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "6B5D86ED-D315-4474-A0FF-121B5A051C10"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "013ED0D2-4E78-4839-A1E7-39200476AA81"
+    },
+    {
+      "class": "group",
+      "id": "475177E9-53FF-475B-9C2A-E9A626A502C5"
+    },
+    {
+      "class": "text",
+      "id": "F8E718C8-C9A3-4AB7-AA25-7BA7DFC78530"
+    }
+  ],
+  "name": "Airdrop",
+  "nameIsFixed": true,
+  "resizingConstraint": 39,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

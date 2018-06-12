@@ -1,0 +1,69 @@
+{
+  "_class": "bitmap",
+  "clippingMask": "{{0, 0}, {1, 1}}",
+  "do_objectID": "7251C4AD-BDEB-40F0-930F-25424F4F90B3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "C960E3BB-E454-405D-BDBB-D3334266DA6E",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "fillReplacesImage": false,
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "8D5E5E44-6665-45DF-AEF8-05091CB1DF1A",
+    "height": 90.4137931034483,
+    "width": 76.9565217391304,
+    "x": 0,
+    "y": 0
+  },
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/8ef6643e8a9fba1f61676cc1979c6f431beda84a",
+    "_ref_class": "MSImageData"
+  },
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Captura de pantalla 2016-01-13 a las 14.26.33",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "E2DE2505-CDB1-424C-86D0-06D9469749FF",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 90.4138,
+            "enabled": 1,
+            "modelID": "constraint_ec61f69b-14c3-494a-b31b-ba1d5522800c",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 76.95652
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_c5ec3f07-8623-4724-b3bc-a7f3a5e31ac4",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1
+        }
+      }
+    }
+  }
+}

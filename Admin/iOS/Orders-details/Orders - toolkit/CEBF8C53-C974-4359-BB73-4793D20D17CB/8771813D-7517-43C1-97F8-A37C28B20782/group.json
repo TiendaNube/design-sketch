@@ -1,0 +1,63 @@
+{
+  "_class": "group",
+  "do_objectID": "8771813D-7517-43C1-97F8-A37C28B20782",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 257,
+    "width": 389,
+    "x": -1,
+    "y": 729
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "group",
+      "id": "2972DECD-909C-4ACB-916A-7F81FB04D8E6"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "FAEE35E8-1C96-4FAF-A08E-9DA0EA9825A1"
+    },
+    {
+      "class": "text",
+      "id": "6CF204FC-1AA8-4E6A-B23B-4E67481D7114"
+    },
+    {
+      "class": "group",
+      "id": "704BCBA2-69AA-4791-BBE8-406A4AB584D1"
+    }
+  ],
+  "name": "PEDIDO",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

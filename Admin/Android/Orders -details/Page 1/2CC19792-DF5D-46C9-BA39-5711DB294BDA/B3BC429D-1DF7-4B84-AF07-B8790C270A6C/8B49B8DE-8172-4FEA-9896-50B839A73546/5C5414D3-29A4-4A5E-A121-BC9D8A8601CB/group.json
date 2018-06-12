@@ -1,0 +1,73 @@
+{
+  "_class": "group",
+  "do_objectID": "5C5414D3-29A4-4A5E-A121-BC9D8A8601CB",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 133,
+    "width": 345,
+    "x": 1094,
+    "y": 755
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "32E39B72-5716-4428-B988-524E62046E92"
+    },
+    {
+      "class": "group",
+      "id": "FB094991-E592-4259-BD47-03D86BE8C1D8"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "0D04F8D3-425C-4F1D-94BA-7DD1F2C30EFC"
+    },
+    {
+      "class": "text",
+      "id": "43C8544F-EF28-4AD4-9112-2F986F12FE4C"
+    },
+    {
+      "class": "text",
+      "id": "70DC2C9D-122B-433C-9100-18474DD01717"
+    },
+    {
+      "class": "text",
+      "id": "FAFF6B83-D2BD-4F64-9781-99D3ADC78D4F"
+    },
+    {
+      "class": "group",
+      "id": "19AC9CEF-8D79-4CB0-8C1A-FFF93178F88A"
+    },
+    {
+      "class": "bitmap",
+      "id": "2C89C510-7AFC-4B8C-AB0A-EBA7CBFE9519"
+    }
+  ],
+  "name": "corrioes copy",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "_class": "group",
+  "do_objectID": "E03C75B8-9A08-4BF0-8D0F-B72F1B182F80",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 201,
+    "width": 375,
+    "x": 0,
+    "y": 647
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "62215912-11F9-430E-8423-540CFC7F7DA3"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "6037B8E9-C147-41C3-BECC-162E8D646FDA"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "37437316-7332-4817-80C0-06329887F771"
+    },
+    {
+      "class": "text",
+      "id": "4CDE16B8-4124-4D1A-8835-F62678DF3593"
+    },
+    {
+      "class": "text",
+      "id": "684E32C4-B3E4-4624-9200-A7C3964EF454"
+    },
+    {
+      "class": "bitmap",
+      "id": "384BA9B0-B490-4C02-820E-4C57757F8938"
+    }
+  ],
+  "name": "Categrias Copy",
+  "nameIsFixed": true,
+  "resizingConstraint": 37,
+  "resizingType": 1,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

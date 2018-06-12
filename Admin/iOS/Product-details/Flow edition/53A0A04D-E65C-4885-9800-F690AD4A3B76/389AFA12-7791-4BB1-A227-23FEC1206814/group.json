@@ -1,0 +1,63 @@
+{
+  "_class": "group",
+  "do_objectID": "389AFA12-7791-4BB1-A227-23FEC1206814",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 44,
+    "width": 375,
+    "x": 0,
+    "y": 646
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "EEC4227F-C99C-484D-A73C-1DB13F900B3A"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "F76172C9-DCEE-488A-AFEE-01DE29AED729"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A2F1BC81-223B-4AC7-832E-EA5FA7A3F43B"
+    },
+    {
+      "class": "text",
+      "id": "2D49024B-4603-44BE-A665-762187315E1F"
+    }
+  ],
+  "name": "Cell/Cell with Switch Copy",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "C0213C23-6AF0-4134-8056-50856FE075BD",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 74,
+    "width": 361,
+    "x": 0,
+    "y": 345
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "product-row/notselected",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C2718386-3429-4645-9C3A-315539D4C678",
+      "overrideName": "ACC9C396-41F6-4629-9ADC-4589C177F2AB_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/a4f8e3c35c52f41711574f0693e6ba1ffca06f02.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "4BD025B8-44A0-44CA-915A-F5D3030EA430",
+      "overrideName": "AD861159-CB75-423A-A786-33AFC46F06A4_stringValue",
+      "value": "Vestido de flores"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "D7284A5B-1EBD-4644-B136-A4C8E0E965BC",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

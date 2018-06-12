@@ -1,0 +1,95 @@
+{
+  "_class": "shapeGroup",
+  "clippingMaskMode": 0,
+  "do_objectID": "10D8CC97-EE0F-4ABC-87E7-3F5349391612",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 26.25000000000001,
+    "width": 20.00000000000001,
+    "x": 5,
+    "y": 1.25
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "B9FB9DFA-10D6-4A3D-9910-6C3822FA4D7E"
+    },
+    {
+      "class": "shapePath",
+      "id": "102D15DD-97BA-41E0-853C-63B8DDFF603A"
+    },
+    {
+      "class": "shapePath",
+      "id": "372738F6-F98A-4BAB-A8DD-3C4E704D7254"
+    },
+    {
+      "class": "shapePath",
+      "id": "AE414584-70D3-4DCE-B0F4-B24351AF30A4"
+    }
+  ],
+  "name": "Shape",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "borders": [
+      {
+        "_class": "border",
+        "color": {
+          "_class": "color",
+          "alpha": 0.12,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": false,
+        "position": 1,
+        "thickness": 0.5
+      }
+    ],
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 0.38,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 0,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "sharedObjectID": "2BAFA850-C91E-489D-8688-6A6F01C6E64C",
+    "startDecorationType": 0
+  },
+  "windingRule": 1
+}

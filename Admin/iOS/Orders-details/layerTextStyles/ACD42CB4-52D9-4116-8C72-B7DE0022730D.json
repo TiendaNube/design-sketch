@@ -1,0 +1,37 @@
+{
+  "_class": "sharedStyle",
+  "do_objectID": "ACD42CB4-52D9-4116-8C72-B7DE0022730D",
+  "name": "Cell/Content",
+  "value": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "sharedObjectID": "ACD42CB4-52D9-4116-8C72-B7DE0022730D",
+    "startDecorationType": 0,
+    "textStyle": {
+      "_class": "textStyle",
+      "encodedAttributes": {
+        "MSAttributedStringColorAttribute": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.5803921569,
+          "green": 0.5568627451,
+          "red": 0.5607843137
+        },
+        "MSAttributedStringFontAttribute": {
+          "_class": "fontDescriptor",
+          "attributes": {
+            "name": "SFUIText-Regular",
+            "size": 15
+          }
+        },
+        "kerning": -0.239999994635582,
+        "paragraphStyle": {
+          "_class": "paragraphStyle",
+          "allowsDefaultTighteningForTruncation": 0
+        }
+      },
+      "verticalAlignment": 0
+    }
+  }
+}

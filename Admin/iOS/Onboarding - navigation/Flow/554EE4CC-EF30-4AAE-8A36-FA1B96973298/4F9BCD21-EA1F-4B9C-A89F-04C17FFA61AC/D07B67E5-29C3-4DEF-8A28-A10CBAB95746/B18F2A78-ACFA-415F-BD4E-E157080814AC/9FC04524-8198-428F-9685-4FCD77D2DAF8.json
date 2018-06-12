@@ -1,0 +1,45 @@
+{
+  "_class": "bitmap",
+  "clippingMask": "{{0, 0}, {1, 1}}",
+  "do_objectID": "9FC04524-8198-428F-9685-4FCD77D2DAF8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "fillReplacesImage": true,
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 48.06443843360128,
+    "width": 52.19249353911113,
+    "x": 27.90489753576185,
+    "y": 25.8410959320438
+  },
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/46bc59ee8dd4dc0e1ff066eabfeeca7573dcdeea",
+    "_ref_class": "MSImageData"
+  },
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "ic_empty_camera-xxhdpi",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

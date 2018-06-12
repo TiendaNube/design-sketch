@@ -1,0 +1,44 @@
+{
+  "_class": "sharedStyle",
+  "do_objectID": "FED34B35-64B5-44D5-BF2F-281DB8060A1A",
+  "name": "Material/Light/Body 1 secondary Copy",
+  "value": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "sharedObjectID": "FED34B35-64B5-44D5-BF2F-281DB8060A1A",
+    "startDecorationType": 0,
+    "textStyle": {
+      "_class": "textStyle",
+      "encodedAttributes": {
+        "MSAttributedStringColorAttribute": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.4,
+          "green": 0.4,
+          "red": 0.4
+        },
+        "MSAttributedStringFontAttribute": {
+          "_class": "fontDescriptor",
+          "attributes": {
+            "name": "Roboto-Regular",
+            "size": 12
+          }
+        },
+        "kerning": 0,
+        "ligature": 0,
+        "paragraphStyle": {
+          "_class": "paragraphStyle",
+          "allowsDefaultTighteningForTruncation": 0,
+          "maximumLineHeight": 20,
+          "minimumLineHeight": 20
+        },
+        "strokeColor": {
+          "_archive": "YnBsaXN0MDDUAQIDBAUGFRZYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKMHCA9VJG51bGzTCQoLDA0OVU5TUkdCXE5TQ29sb3JTcGFjZVYkY2xhc3NMMC42IDAuNiAwLjYAEAKAAtIQERITWiRjbGFzc25hbWVYJGNsYXNzZXNXTlNDb2xvcqISFFhOU09iamVjdF8QD05TS2V5ZWRBcmNoaXZlctEXGFRyb290gAEIERojLTI3O0FITltib3FzeIOMlJegsrW6AAAAAAAAAQEAAAAAAAAAGQAAAAAAAAAAAAAAAAAAALw="
+        },
+        "strokeWidth": 0
+      },
+      "verticalAlignment": 0
+    }
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "do_objectID": "37EAB315-2E96-4838-A177-5047C2FE37B2",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 667,
+    "width": 375,
+    "x": 10545,
+    "y": -253
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "0B9D4EFC-43E6-4902-811A-D79AF6AD9349"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "65E6CDF7-CB23-4F23-B96B-10F615B60F5E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "BFDB6FD6-35C8-4897-8909-9CA26A2E2E01"
+    },
+    {
+      "class": "group",
+      "id": "17AD6D15-109D-4D9D-9FCB-13A8437154BC"
+    },
+    {
+      "class": "group",
+      "id": "87826FCD-B18B-4082-B8C9-E21620F7FFF9"
+    },
+    {
+      "class": "text",
+      "id": "2B97D221-0077-4A62-9798-62B72B1176EE"
+    },
+    {
+      "class": "text",
+      "id": "92EBC128-1F8E-415A-A919-D08918D25FBF"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "40BB475C-680C-43EB-B4BB-9083CE8B8E81"
+    },
+    {
+      "class": "text",
+      "id": "049A73EE-3450-41A6-ACEC-D3538589979E"
+    }
+  ],
+  "name": "Panel premio",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 1,
+    "height": 667,
+    "name": "iPhone 8",
+    "offersLandscapeVariant": 1,
+    "width": 375
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

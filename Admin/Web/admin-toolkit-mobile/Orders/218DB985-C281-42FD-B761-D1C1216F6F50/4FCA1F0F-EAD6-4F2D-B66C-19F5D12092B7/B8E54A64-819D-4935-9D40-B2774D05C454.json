@@ -1,0 +1,57 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "B8E54A64-819D-4935-9D40-B2774D05C454",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 125,
+    "width": 360,
+    "x": 0,
+    "y": 279
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "masterInfluenceEdgeMaxXPadding": 30,
+  "masterInfluenceEdgeMaxYPadding": 3,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 0,
+  "name": "orders-list",
+  "nameIsFixed": false,
+  "overrides": {
+    "4432F742-4E86-4706-80D6-5CD24A7F54F9": {
+      "A1969E1C-D4BE-40CC-98CC-FB8A0459937B": "Aguardando confirmaçã de pagamento",
+      "E5665444-3025-4990-A26F-2496284121CF": "Pagseguro"
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "E02B4283-EC4B-4D9E-8C82-05F94685F46A",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

@@ -1,0 +1,69 @@
+{
+  "_class": "group",
+  "do_objectID": "0DED54B6-925F-4458-96F7-8707292D5E13",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 48,
+    "width": 360,
+    "x": 0,
+    "y": 84
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": false,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "589F20CD-ACF1-4CA6-94D6-00726D06DF63"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "97312FD6-9EB9-4D32-AD6A-3B5EF1FB2B8B"
+    },
+    {
+      "class": "group",
+      "id": "00080043-D35D-4BFE-BD0F-3C9A334A8CAA"
+    },
+    {
+      "class": "group",
+      "id": "DE14486A-29F4-4BD7-9F26-A1E612FF852E"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "C26B4D7B-C63F-4640-8F9E-243448362162"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "4767B930-726D-40FE-87A0-A8381D236192"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "E33A0647-4F6C-421A-A3B6-82C6207C4221"
+    }
+  ],
+  "name": "tabs-Iconos",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

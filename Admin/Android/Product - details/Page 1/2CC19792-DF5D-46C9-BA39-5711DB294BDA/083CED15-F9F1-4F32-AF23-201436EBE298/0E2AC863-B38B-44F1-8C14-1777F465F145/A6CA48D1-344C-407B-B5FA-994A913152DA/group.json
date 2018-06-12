@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "do_objectID": "A6CA48D1-344C-407B-B5FA-994A913152DA",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 40,
+    "width": 365,
+    "x": 0,
+    "y": 495
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "352A4AE8-AFAB-43D4-B208-DB8FAFD81C66"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "F7ECA1C1-30D6-4A4B-A15E-9B6B835DB1B8"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "7D4F450D-F473-4337-A570-55F14A84FBD1"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F7EEA902-271C-4C05-AB8C-C678186052DB"
+    },
+    {
+      "class": "text",
+      "id": "EECA0FDD-D4B6-4960-96C2-D9B4A069B8B7"
+    }
+  ],
+  "name": "tienda",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

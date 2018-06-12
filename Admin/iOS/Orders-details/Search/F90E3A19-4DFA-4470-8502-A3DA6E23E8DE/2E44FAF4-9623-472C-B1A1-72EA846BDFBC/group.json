@@ -1,0 +1,126 @@
+{
+  "_class": "group",
+  "do_objectID": "2E44FAF4-9623-472C-B1A1-72EA846BDFBC",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 704,
+    "width": 375,
+    "x": 55,
+    "y": 25
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "7CFD697B-8694-4469-94FA-2793974EFEF1"
+    },
+    {
+      "class": "group",
+      "id": "830F06A0-120F-4594-B62A-BACDE4371239"
+    },
+    {
+      "class": "group",
+      "id": "A98E48D6-0707-4046-9A67-84C6074A2BE8"
+    },
+    {
+      "class": "group",
+      "id": "E4568B1E-FF6A-4C43-ADB5-BC163B754452"
+    },
+    {
+      "class": "group",
+      "id": "729CD476-49D3-466C-BE1D-659C259DEF6A"
+    },
+    {
+      "class": "group",
+      "id": "9D42DCB6-A076-4E35-B3BF-EC33EF82E266"
+    },
+    {
+      "class": "group",
+      "id": "CC7F3943-665B-41E6-B78A-385C1B320153"
+    },
+    {
+      "class": "group",
+      "id": "B052E87C-FC1D-49EC-8972-CBDF5B96D48A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "7A266FBD-8166-47BF-A0B1-EF1D4573CBF4"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "7EF9B0D6-F12A-4B1D-AEDF-1835ABB3BEB1"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "EF6174B1-7B04-4E9F-A943-B6A22A024A66"
+    },
+    {
+      "class": "group",
+      "id": "73DA15C0-F3D3-4BDD-921D-831549921D29"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "94AAE567-6C58-4381-B4B3-7161C732836E"
+    }
+  ],
+  "name": "Group 2",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.847,
+          "green": 0.847,
+          "red": 0.847
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

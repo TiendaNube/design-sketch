@@ -1,0 +1,67 @@
+{
+  "_class": "group",
+  "do_objectID": "C4B34F58-93A4-4E7F-A537-C4FED1EA8E3D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 44,
+    "width": 375,
+    "x": 0,
+    "y": 470
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "723D34B2-FB97-4F32-B20A-C8E9B7740852"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "3563377D-8E12-48A2-8D8E-BB857265988C"
+    },
+    {
+      "class": "text",
+      "id": "6226A2BF-57C3-4E37-9C05-6A1D6B7AFE73"
+    },
+    {
+      "class": "text",
+      "id": "EEA3AA1E-7320-414C-87AC-8BEA52EE52B4"
+    },
+    {
+      "class": "group",
+      "id": "CB5F0A97-BD87-489B-AE5B-916FF926A947"
+    }
+  ],
+  "name": "Cell/Cell with Input Copy 4",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

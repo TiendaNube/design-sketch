@@ -1,0 +1,66 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "A2AA4D4B-D8D3-4233-9414-A96F39537CE6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 36,
+    "width": 51,
+    "x": 308,
+    "y": 6
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Off Switch",
+  "nameIsFixed": true,
+  "overrideValues": [
+  ],
+  "overrides": {
+  },
+  "resizingConstraint": 36,
+  "resizingType": 1,
+  "rotation": 0,
+  "scale": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "17063087-A56E-49CD-9915-3D0A1C8F9416",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 36,
+            "enabled": 1,
+            "modelID": "constraint_515dc3e6-4cf7-4a07-8a72-4cb51766bca7",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 51
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_bb1a671a-057f-4fee-8d37-826d9308cb0b",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1
+        }
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

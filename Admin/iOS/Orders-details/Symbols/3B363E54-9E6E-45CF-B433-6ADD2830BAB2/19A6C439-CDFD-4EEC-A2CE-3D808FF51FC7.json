@@ -1,0 +1,73 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "attributedString",
+    "attributes": [
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.5803921569,
+            "green": 0.5568627451,
+            "red": 0.5607843137
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "SFUIText-Regular",
+              "size": 15
+            }
+          },
+          "kerning": -0.239999994635582,
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "allowsDefaultTighteningForTruncation": 0
+          }
+        },
+        "length": 73,
+        "location": 0
+      }
+    ],
+    "string": "Professional digital design for Mac. Sketch gives you the power and flex…"
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "19A6C439-CDFD-4EEC-A2CE-3D808FF51FC7",
+  "dontSynchroniseWithSymbol": true,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 36,
+    "width": 260,
+    "x": 16,
+    "y": 50.5
+  },
+  "glyphBounds": "{{0, 0}, {260, 36}}",
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 0,
+  "name": "Body",
+  "nameIsFixed": true,
+  "originalObjectID": "19A6C439-CDFD-4EEC-A2CE-3D808FF51FC7",
+  "resizingConstraint": 18,
+  "resizingType": 2,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "sharedObjectID": "ACD42CB4-52D9-4116-8C72-B7DE0022730D"
+  },
+  "textBehaviour": 2
+}

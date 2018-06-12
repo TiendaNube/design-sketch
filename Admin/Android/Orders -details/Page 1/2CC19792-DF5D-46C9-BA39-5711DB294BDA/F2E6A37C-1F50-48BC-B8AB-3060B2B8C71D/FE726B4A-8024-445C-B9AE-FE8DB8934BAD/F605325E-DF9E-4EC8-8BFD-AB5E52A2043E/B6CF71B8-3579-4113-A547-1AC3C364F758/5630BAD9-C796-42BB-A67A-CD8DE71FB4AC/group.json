@@ -1,0 +1,71 @@
+{
+  "_class": "group",
+  "do_objectID": "5630BAD9-C796-42BB-A67A-CD8DE71FB4AC",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 44,
+    "width": 360,
+    "x": 0,
+    "y": 28
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "F92BBFF9-5908-4711-A789-A002B0CE279A"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "219F2312-CC51-4EB1-A519-9FF287B35B21"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "8394BB0E-2679-43D5-947A-AA4EACFD8058"
+    }
+  ],
+  "name": "progress-shipping",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 0,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

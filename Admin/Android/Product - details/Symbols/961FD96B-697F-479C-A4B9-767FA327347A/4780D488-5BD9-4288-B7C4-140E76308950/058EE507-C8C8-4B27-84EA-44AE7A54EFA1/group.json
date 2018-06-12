@@ -1,0 +1,81 @@
+{
+  "_class": "group",
+  "do_objectID": "058EE507-C8C8-4B27-84EA-44AE7A54EFA1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 32,
+    "width": 129,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "70FC5789-CE8A-415F-BF99-E2D9E41CE4D0"
+    },
+    {
+      "class": "text",
+      "id": "8C2A5C61-6765-48F2-AC2E-DAF96F88A4CE"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "9855449B-125D-4255-AF3C-4053FC49B241"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "0C029C2A-556E-46DC-8CFB-DED5374C2B2E"
+    }
+  ],
+  "name": "chip",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 0,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "_class": "group",
+  "do_objectID": "0AA481CB-5601-443D-B1F3-76EE4115BF5D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 196,
+    "width": 139,
+    "x": 122,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "D490CA88-074B-4A53-B5B6-D4F6FB91917A"
+    },
+    {
+      "class": "bitmap",
+      "id": "F5FACA9F-DEBE-4E81-B558-27D71B96F766"
+    }
+  ],
+  "name": "Pagseguro",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

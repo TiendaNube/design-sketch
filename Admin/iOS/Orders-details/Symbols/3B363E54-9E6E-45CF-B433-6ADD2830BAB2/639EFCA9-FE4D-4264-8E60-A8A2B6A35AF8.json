@@ -1,0 +1,73 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "attributedString",
+    "attributes": [
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.01176470588,
+            "green": 0.01176470588,
+            "red": 0.01176470588
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "SFUIText-Regular",
+              "size": 15
+            }
+          },
+          "kerning": -0.239999994635582,
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "allowsDefaultTighteningForTruncation": 0
+          }
+        },
+        "length": 13,
+        "location": 0
+      }
+    ],
+    "string": "sketchapp.com"
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "639EFCA9-FE4D-4264-8E60-A8A2B6A35AF8",
+  "dontSynchroniseWithSymbol": true,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 18,
+    "width": 105,
+    "x": 16,
+    "y": 29
+  },
+  "glyphBounds": "{{0, 0}, {104, 17}}",
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 0,
+  "name": "Subject",
+  "nameIsFixed": true,
+  "originalObjectID": "639EFCA9-FE4D-4264-8E60-A8A2B6A35AF8",
+  "resizingConstraint": 9,
+  "resizingType": 1,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "sharedObjectID": "D719784C-7892-44A8-99BE-C2A82A346475"
+  },
+  "textBehaviour": 2
+}

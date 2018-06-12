@@ -1,0 +1,78 @@
+{
+  "_class": "shapeGroup",
+  "clippingMaskMode": 0,
+  "do_objectID": "2AB1AE6E-61FC-412B-8590-8EA110856B43",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 35,
+    "width": 39,
+    "x": 10.5,
+    "y": 12.5
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "06C1BFE9-DF5A-4FC9-AF48-C5E2078770B9"
+    },
+    {
+      "class": "rectangle",
+      "id": "335D4B2F-BE4D-4A57-9F6F-4953B173F988"
+    },
+    {
+      "class": "rectangle",
+      "id": "E41A8330-38E8-4944-A98F-F605CF4C264F"
+    },
+    {
+      "class": "rectangle",
+      "id": "ABA456CF-681D-4DD6-B6FE-FFD9334E8594"
+    }
+  ],
+  "name": "Print",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.4470588235294118,
+          "green": 0.407843137254902,
+          "red": 0.407843137254902
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 0,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "windingRule": 1
+}

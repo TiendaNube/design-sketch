@@ -1,0 +1,53 @@
+{
+  "_class": "group",
+  "do_objectID": "8FC4917D-769C-45B6-A652-4795A935F10E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 15,
+    "width": 364,
+    "x": 6,
+    "y": 3
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "2EE18136-2B09-4958-9B76-A4A5238212B6"
+    },
+    {
+      "class": "text",
+      "id": "EB2FEA9E-44A7-4F67-BBF6-E92AEAE1A127"
+    },
+    {
+      "class": "group",
+      "id": "84A620C9-BD38-467C-9ADF-EDBEA0E8CB93"
+    }
+  ],
+  "name": "Status bar",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

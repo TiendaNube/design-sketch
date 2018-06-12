@@ -1,0 +1,95 @@
+{
+  "_class": "group",
+  "do_objectID": "3CCEBA57-2CB9-4FD3-9A02-B9988110B6A3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 246,
+    "width": 346,
+    "x": 15,
+    "y": 79
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "9AAC40F9-EBF7-4808-804F-B8D64D547FFA"
+    },
+    {
+      "class": "group",
+      "id": "4278CE65-3F71-423A-A1E3-42DA6C037069"
+    },
+    {
+      "class": "group",
+      "id": "020D1F1C-6AFA-4971-B981-582B9617B667"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "52A01DAE-FDC0-4C1C-8A1C-6F879473CBD2"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "31029046-1509-441B-BF4C-C57A1A356958"
+    },
+    {
+      "class": "group",
+      "id": "40778543-C609-4F81-BCB6-7139BAD4D485"
+    },
+    {
+      "class": "group",
+      "id": "617D5820-6365-472B-BE24-C666B9530140"
+    },
+    {
+      "class": "group",
+      "id": "DD5228D3-F7C7-43DE-956C-F238EC009E27"
+    },
+    {
+      "class": "group",
+      "id": "42E022A2-4B85-4C4E-B8E9-017CCCADEB5F"
+    },
+    {
+      "class": "group",
+      "id": "A2FD50E5-CC31-478C-A421-5C91736E6D60"
+    },
+    {
+      "class": "group",
+      "id": "28CCA0E0-7E05-4158-833A-B8289D1DBB9B"
+    },
+    {
+      "class": "text",
+      "id": "9185D063-4354-466E-A346-4C8F5830F781"
+    }
+  ],
+  "name": "Images product",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

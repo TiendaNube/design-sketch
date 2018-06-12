@@ -1,0 +1,58 @@
+{
+  "_class": "group",
+  "do_objectID": "86D12FAE-3A73-4506-8125-F824D3169516",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "FBC5B5AB-F0D6-4CE6-9BA8-FB23643D775D",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "EE49B99C-BAD0-42DE-A1B6-44FCB7D74719",
+    "height": 75,
+    "width": 75,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "5E2A2453-0186-4041-AD21-4A43D2223857"
+    },
+    {
+      "class": "bitmap",
+      "id": "7251C4AD-BDEB-40F0-930F-25424F4F90B3"
+    }
+  ],
+  "name": "Captura de pantalla 2016-01-13 a las 14.26.33",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "1690C84A-1411-41AE-8E8A-BC5756C3556A",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

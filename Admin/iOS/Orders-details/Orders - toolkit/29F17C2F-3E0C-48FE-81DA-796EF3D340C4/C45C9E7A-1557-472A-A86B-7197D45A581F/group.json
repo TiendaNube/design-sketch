@@ -1,0 +1,67 @@
+{
+  "_class": "group",
+  "do_objectID": "C45C9E7A-1557-472A-A86B-7197D45A581F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 381,
+    "width": 418,
+    "x": 0,
+    "y": 931
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "E887EBC8-F636-4970-B9B3-EC429A73B149"
+    },
+    {
+      "class": "group",
+      "id": "CD89149D-DF73-4D98-AB6E-35CFB6B4C5A4"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "5CB65F72-4CCE-4608-A4E6-A22B8158062A"
+    },
+    {
+      "class": "text",
+      "id": "53A6F04D-605B-4D04-A3A0-2F931EBB8C8E"
+    },
+    {
+      "class": "group",
+      "id": "1FA1D01A-641A-4B19-8ABD-4B8A0DEC3FDC"
+    }
+  ],
+  "name": "Acciones",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

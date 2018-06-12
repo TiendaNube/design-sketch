@@ -1,0 +1,80 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "attributedString",
+    "attributes": [
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.5803921569,
+            "green": 0.5568627451,
+            "red": 0.5607843137
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "SFUIText-Regular",
+              "size": 15
+            }
+          },
+          "kerning": -0.239999994635582,
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "allowsDefaultTighteningForTruncation": 0
+          }
+        },
+        "length": 121,
+        "location": 0
+      }
+    ],
+    "string": "Teléfono: 03875012134\n\n\nSucursal OCA:\nCódigo de sucursal: SLA\nCaseros 1332, Salta, Salta\nCódigo Postal: 4400\n0387-4310593"
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "6B88F556-74A2-4E9E-BAFF-037CF6D8DD31",
+  "dontSynchroniseWithSymbol": true,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 144,
+    "width": 337,
+    "x": 45,
+    "y": 33
+  },
+  "glyphBounds": "{{0, 2}, {178, 139}}",
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 0,
+  "name": "Body Copy",
+  "nameIsFixed": true,
+  "originalObjectID": "8D95DF4B-455C-4821-9032-45CB58913941",
+  "resizingConstraint": 18,
+  "resizingType": 2,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "sharedObjectID": "ACD42CB4-52D9-4116-8C72-B7DE0022730D"
+  },
+  "textBehaviour": 1,
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "isAutoWidth": 0
+      }
+    }
+  }
+}

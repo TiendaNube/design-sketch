@@ -1,0 +1,67 @@
+{
+  "_class": "group",
+  "do_objectID": "E376F949-579D-4619-87F2-6284937AC3B7",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 667,
+    "width": 375,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "F3333800-F8A0-477B-AB50-795E2054D431"
+    },
+    {
+      "class": "group",
+      "id": "68544EE0-4B28-4331-BE32-47C50F83D4A4"
+    },
+    {
+      "class": "group",
+      "id": "B60B11D3-500B-4E2C-9858-10AF7EFEBB4F"
+    },
+    {
+      "class": "group",
+      "id": "587688F5-06DF-45D4-8C3B-F49822A772C3"
+    },
+    {
+      "class": "group",
+      "id": "B5335FAA-6788-4961-A522-94BB8807DB35"
+    }
+  ],
+  "name": "Views/Action Sheet",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

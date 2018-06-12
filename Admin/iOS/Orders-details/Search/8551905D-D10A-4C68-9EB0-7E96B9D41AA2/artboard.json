@@ -1,0 +1,123 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "do_objectID": "8551905D-D10A-4C68-9EB0-7E96B9D41AA2",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 667,
+    "width": 375,
+    "x": 4518,
+    "y": 1596
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "14354F00-21E9-49CC-84D8-88DFD63372E5"
+    },
+    {
+      "class": "group",
+      "id": "96F3D31B-30D6-4CF8-A991-B721EEA89343"
+    },
+    {
+      "class": "group",
+      "id": "11F397C8-1254-46F7-98E9-FF635DA045B2"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "478F2A23-8B51-4503-8056-261419B653CC"
+    },
+    {
+      "class": "group",
+      "id": "BCBA703A-F6B8-4308-A819-A702A981C570"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "566C7D20-E7E0-4DFC-8A4C-8828D15222E2"
+    },
+    {
+      "class": "text",
+      "id": "860445B4-DD35-404D-BE83-595E0BA1C18E"
+    },
+    {
+      "class": "group",
+      "id": "DB45B427-F82F-4270-B9DC-EB55C6FD63B5"
+    },
+    {
+      "class": "bitmap",
+      "id": "C0736466-6654-43E5-B19A-7596C81FE4F7"
+    }
+  ],
+  "name": "iPhone 8 Copy 2",
+  "nameIsFixed": false,
+  "presetDictionary": {
+    "allowResizedMatching": 1,
+    "height": 667,
+    "name": "iPhone 8",
+    "offersLandscapeVariant": 1,
+    "width": 375
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

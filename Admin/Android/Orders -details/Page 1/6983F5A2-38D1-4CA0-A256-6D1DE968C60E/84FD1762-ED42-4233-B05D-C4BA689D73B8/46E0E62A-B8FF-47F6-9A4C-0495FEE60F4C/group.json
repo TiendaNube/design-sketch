@@ -1,0 +1,109 @@
+{
+  "_class": "group",
+  "do_objectID": "46E0E62A-B8FF-47F6-9A4C-0495FEE60F4C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 640,
+    "width": 362,
+    "x": 0,
+    "y": 47
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": false,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "BB869654-E10B-4F11-B9AB-9906ED1D7193"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "6F90B8A5-1EAE-45B0-B30D-08681E77E790"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "AE47E95C-A105-490C-AF80-23DDFF9E92F3"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "D94015FF-8269-4E45-AB70-FD60ADE2C840"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "8541178F-1A84-4E7E-9660-8F3906D2AC32"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "20AFC0ED-358E-4DE2-B018-4508DD638D6E"
+    },
+    {
+      "class": "text",
+      "id": "CFFB76B8-21A1-420F-BA90-49A7C5BB904A"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "ED461BF4-306E-49F8-9EAF-7E1B7732FA75"
+    },
+    {
+      "class": "text",
+      "id": "11154514-DD34-44A2-87B8-E92CF0217974"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "FD5AADC9-57BB-4562-A4B9-9A90146D31DE"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "977DD188-92E8-40AC-A400-3F151DBAE6B4"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "D7A3FD05-9DEC-4FF9-843B-18498F20A025"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "6D8D528A-C0D8-48D0-9CBA-B2BD86166734"
+    },
+    {
+      "class": "text",
+      "id": "4B08B973-75E4-4C2C-A44E-2909C182384F"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "A12DFFBF-2871-4AD7-B5E9-683214834562"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "715E487B-D334-470B-8C8E-BC1A380364A2"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "EF5CA360-617B-481E-82F3-66534DA869CB"
+    }
+  ],
+  "name": "grillas",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

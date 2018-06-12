@@ -1,0 +1,107 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "do_objectID": "C5BA63EE-18C8-4320-BC9F-952D546FD83C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 568,
+    "width": 320,
+    "x": 602,
+    "y": 1467
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+      242
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "FAEBA125-CBBB-4C71-B37D-09892CE9A261"
+    },
+    {
+      "class": "group",
+      "id": "2AF5E14F-DFD7-4745-AFD9-B4B7E5AAA688"
+    },
+    {
+      "class": "group",
+      "id": "3B7A4C11-0A60-4CC9-ADD7-85585F5C738A"
+    },
+    {
+      "class": "group",
+      "id": "50447910-C71D-4A05-99AC-DC81A475B777"
+    },
+    {
+      "class": "group",
+      "id": "BB293C39-992D-45A0-9EBE-68D0D3D257C3"
+    },
+    {
+      "class": "group",
+      "id": "17A8D431-032D-4C86-B8AB-F193F891F800"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "07031AC1-5190-4AD4-8302-EE2B4F7FA550"
+    }
+  ],
+  "name": "iPhone SE",
+  "nameIsFixed": false,
+  "presetDictionary": {
+    "allowResizedMatching": 1,
+    "height": 568,
+    "name": "iPhone SE",
+    "offersLandscapeVariant": 1,
+    "width": 320
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

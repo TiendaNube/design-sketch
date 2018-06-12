@@ -1,0 +1,61 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "5FE84DBF-AADF-4A13-9C86-3B437D945BEF",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "8D9E1E29-8F4B-4085-BDCF-157FDB7FF6E3",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "2FFB64AB-A7FD-4EF3-A30C-48C717D18201",
+    "height": 91,
+    "width": 360,
+    "x": 0,
+    "y": 235
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "masterInfluenceEdgeMaxXPadding": 1,
+  "masterInfluenceEdgeMaxYPadding": 1,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 1,
+  "name": "checklist copy",
+  "nameIsFixed": false,
+  "overrides": {
+    "D6562375-D327-482A-B0FB-6D9D4E7DE779": {
+      "_class": "MSJSONFileReference",
+      "_ref": "images/bfe25af81afe030e3ded16d33f6fae9938046e35",
+      "_ref_class": "MSImageData"
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "FD779167-C2B5-4E51-B046-02F474E35095",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "D8BC67AE-FBB7-486A-B2F8-2DBC21D9A60C",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "do_objectID": "FECE1748-BFC8-4C5E-9A65-C4A87036772A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 48,
+    "width": 360,
+    "x": 0,
+    "y": 80
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "58C426BB-8516-4072-B281-625701E7CFCF"
+    },
+    {
+      "class": "text",
+      "id": "52DD5E0A-A47A-4174-A6E2-0B38F5988C5D"
+    },
+    {
+      "class": "text",
+      "id": "59FB54E3-6FF1-4015-AC55-BF32FAFF8679"
+    },
+    {
+      "class": "text",
+      "id": "BFD29349-E649-4F38-883A-E8F495F410FC"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "D1DD7703-5756-4111-A3BB-BA72056C1EED"
+    }
+  ],
+  "name": "tabs",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

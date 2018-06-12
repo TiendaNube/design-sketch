@@ -1,0 +1,80 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "attributedString",
+    "attributes": [
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.5803921569,
+            "green": 0.5568627451,
+            "red": 0.5607843137
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "SFUIText-Regular",
+              "size": 15
+            }
+          },
+          "kerning": -0.239999994635582,
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "allowsDefaultTighteningForTruncation": 0
+          }
+        },
+        "length": 133,
+        "location": 0
+      }
+    ],
+    "string": "Teléfono: 02266418920\n\n\nDirección: Alberti 1353\nLocalidad: Guemes\nCódigo postal: 7600\nEstado/Provincia: Buenos Aires\nPaís:  Argentina"
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "4D50844C-E8A6-4F20-B843-EA53EC4F601B",
+  "dontSynchroniseWithSymbol": true,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 144,
+    "width": 337,
+    "x": 45,
+    "y": 33
+  },
+  "glyphBounds": "{{0, 2}, {212, 142}}",
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 0,
+  "name": "Body Copy",
+  "nameIsFixed": true,
+  "originalObjectID": "8D95DF4B-455C-4821-9032-45CB58913941",
+  "resizingConstraint": 18,
+  "resizingType": 2,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "sharedObjectID": "ACD42CB4-52D9-4116-8C72-B7DE0022730D"
+  },
+  "textBehaviour": 1,
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "isAutoWidth": 0
+      }
+    }
+  }
+}

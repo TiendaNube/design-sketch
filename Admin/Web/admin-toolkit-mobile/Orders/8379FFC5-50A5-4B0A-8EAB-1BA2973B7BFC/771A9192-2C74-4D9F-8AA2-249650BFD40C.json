@@ -1,0 +1,52 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "771A9192-2C74-4D9F-8AA2-249650BFD40C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 40,
+    "width": 378,
+    "x": 0,
+    "y": 432
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "masterInfluenceEdgeMaxXPadding": 0,
+  "masterInfluenceEdgeMaxYPadding": 0,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 0,
+  "name": "orders-status copy 7",
+  "nameIsFixed": false,
+  "overrides": {
+    "772FB61A-32EA-48F7-BC0A-46E8A1B5035B": {
+      "symbolID": "5BEB87E4-C1ED-4A53-A7D9-7AB4A89C9242"
+    },
+    "A1969E1C-D4BE-40CC-98CC-FB8A0459937B": "Pedido en camino",
+    "E5665444-3025-4990-A26F-2496284121CF": "Mercado Envíos - Medio de envío"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "57796E39-6829-41E5-AC8F-72385C258516",
+  "verticalSpacing": 0
+}

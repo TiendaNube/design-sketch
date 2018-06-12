@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "do_objectID": "DE203CB1-022C-4DB6-A8D6-2750E92BC88D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 126,
+    "width": 375,
+    "x": 0,
+    "y": 116
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "6121E1F9-53AB-457C-B7DF-5BF633AC5F3B"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "DC9DF327-14A7-4DF2-B4A5-C0922D1A4018"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E2D31DAA-592B-4F45-A263-5F3CC3EBA5A1"
+    },
+    {
+      "class": "text",
+      "id": "85CC4B5D-F4F7-4940-AF61-14A4295712FB"
+    },
+    {
+      "class": "group",
+      "id": "3EE6575A-F3CF-46C2-A5F3-4D83B64C3A09"
+    }
+  ],
+  "name": "Cell/Cell with Check",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

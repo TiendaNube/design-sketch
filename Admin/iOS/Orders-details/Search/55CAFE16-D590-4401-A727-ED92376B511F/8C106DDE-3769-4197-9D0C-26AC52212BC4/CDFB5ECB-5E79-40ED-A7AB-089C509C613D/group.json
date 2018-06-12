@@ -1,0 +1,63 @@
+{
+  "_class": "group",
+  "do_objectID": "CDFB5ECB-5E79-40ED-A7AB-089C509C613D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 569,
+    "width": 320,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "04AF164A-1219-447E-90D0-CD423C8C6EBB"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "68500D73-6A28-439B-8C12-532B0E58B48E"
+    },
+    {
+      "class": "group",
+      "id": "8E8851D0-DB35-41AE-9B91-45C9FFFC41CD"
+    },
+    {
+      "class": "text",
+      "id": "9D167FB9-94AB-4DC0-8E08-C6831461A52E"
+    }
+  ],
+  "name": "Cell/Table Divider",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

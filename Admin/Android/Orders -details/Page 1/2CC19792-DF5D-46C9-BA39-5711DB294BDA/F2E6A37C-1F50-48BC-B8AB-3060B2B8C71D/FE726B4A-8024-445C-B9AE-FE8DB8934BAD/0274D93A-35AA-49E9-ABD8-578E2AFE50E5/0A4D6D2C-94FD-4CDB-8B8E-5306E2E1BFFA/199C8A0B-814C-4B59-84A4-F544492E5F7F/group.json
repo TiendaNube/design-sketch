@@ -1,0 +1,75 @@
+{
+  "_class": "group",
+  "do_objectID": "199C8A0B-814C-4B59-84A4-F544492E5F7F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 71,
+    "width": 360,
+    "x": 0,
+    "y": 16
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "A909DE6A-7F49-4C67-B2D5-E347B054EB7F"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "86857803-498B-47A5-8AC0-476C8920AFD2"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "4FBBDD35-E675-4822-B53B-9967FB0544B0"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "5E65B483-5AFD-4460-9D06-46D77DFC7E2A"
+    }
+  ],
+  "name": "progress-payment",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 0,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

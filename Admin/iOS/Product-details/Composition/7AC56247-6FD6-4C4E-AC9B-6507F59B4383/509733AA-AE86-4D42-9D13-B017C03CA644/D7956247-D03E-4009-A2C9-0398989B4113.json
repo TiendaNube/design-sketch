@@ -1,0 +1,65 @@
+{
+  "_class": "bitmap",
+  "clippingMask": "{{0, 0}, {1, 1}}",
+  "do_objectID": "D7956247-D03E-4009-A2C9-0398989B4113",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "fillReplacesImage": false,
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 26,
+    "width": 26,
+    "x": 16,
+    "y": 11
+  },
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/c4737d5ecf00e22492d0c3fcb76c87638618cbc5",
+    "_ref_class": "MSImageData"
+  },
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Teams-50",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 50,
+            "enabled": 1,
+            "modelID": "constraint_f7657f8c-306c-467e-aa7c-67eea185a528",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 50
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_2dc5682e-776a-4fa0-8c09-2b1068e0fca8",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1
+        }
+      }
+    }
+  }
+}

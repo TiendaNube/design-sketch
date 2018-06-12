@@ -1,0 +1,63 @@
+{
+  "_class": "group",
+  "do_objectID": "79803013-4087-4405-A513-BE5EAEE6B9D3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 96,
+    "width": 375,
+    "x": 0,
+    "y": 56
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "D2948DCD-742C-4AF3-8433-7A596ED67353"
+    },
+    {
+      "class": "text",
+      "id": "E58C70F4-819F-4DFE-A85A-52627A976FBF"
+    },
+    {
+      "class": "text",
+      "id": "E18728FE-F560-44F1-B4F9-C2CBCEF939F4"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "49CF1DD6-6107-4D34-A2E8-1F2698807034"
+    }
+  ],
+  "name": "Success message",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "do_objectID": "37D72DAD-C991-4655-BD13-518DCEBBC1EF",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 58,
+    "width": 360,
+    "x": 0,
+    "y": 732
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": false,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "B5587C12-BA99-466B-AFBF-2D6B31071215"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "E71AA24F-34C9-4829-86F7-66F25FEE6A69"
+    },
+    {
+      "class": "text",
+      "id": "AEABCBDB-DFE5-4FEA-96CB-332CD74D73EB"
+    },
+    {
+      "class": "text",
+      "id": "AFBE5FAE-649E-47A9-B841-0B180F0F43D3"
+    }
+  ],
+  "name": "toast action",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

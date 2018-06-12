@@ -1,0 +1,55 @@
+{
+  "_class": "group",
+  "do_objectID": "02A329D3-ECE2-44D2-8862-0898C2B1A126",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 163,
+    "width": 476,
+    "x": 93,
+    "y": 399
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "BC63E71A-59FF-45E4-9CA3-4AB0E683D8E6"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "FFC3205B-C4F5-4DFA-9A63-15640FB07E73"
+    }
+  ],
+  "name": "Cell/Cell with Input Copy 5",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

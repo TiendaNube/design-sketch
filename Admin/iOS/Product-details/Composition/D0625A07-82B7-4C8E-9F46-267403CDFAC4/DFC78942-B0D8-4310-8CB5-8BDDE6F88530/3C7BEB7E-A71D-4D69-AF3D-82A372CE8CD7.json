@@ -1,0 +1,86 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "3C7BEB7E-A71D-4D69-AF3D-82A372CE8CD7",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A2A38C81-9CCA-46BF-9C24-1D09BD73B395",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "A7994FA1-BC1A-42EF-84E3-6328144D0018",
+    "height": 76,
+    "width": 380,
+    "x": 0,
+    "y": 228
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "list copy 3",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "837D8AFD-BAFB-471E-A01E-7E757E1B75B0",
+      "overrideName": "AEB5C182-3F23-4FCE-94EE-D48A7F5D9B8F/A9465179-A1F7-4C47-87CA-2E71257064DE_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/9393d4a9b82af77eeacfcb631a34347fa18683b6",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "91C3EAA7-AEA8-4A32-8C5D-C96535A94902",
+      "overrideName": "A3F4CC3C-398C-441D-99F5-D366B0EA0B65_stringValue",
+      "value": "Musculosa de crepe"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "4592E2D6-0735-42A8-871D-7989C21C3497",
+      "overrideName": "BCFF75AE-603C-4D06-AF33-6F058F0E9D67_stringValue",
+      "value": "stock 9"
+    }
+  ],
+  "overrides": {
+    "A3F4CC3C-398C-441D-99F5-D366B0EA0B65": "Musculosa de crepe",
+    "AEB5C182-3F23-4FCE-94EE-D48A7F5D9B8F": {
+      "A9465179-A1F7-4C47-87CA-2E71257064DE": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/9393d4a9b82af77eeacfcb631a34347fa18683b6",
+        "_ref_class": "MSImageData"
+      }
+    },
+    "BCFF75AE-603C-4D06-AF33-6F058F0E9D67": "stock 9"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "CEA7C1FC-B657-4EF9-8CE1-78FB4FDB4AEA",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "602AC6A3-927A-415D-B6A8-5E1654764E67",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

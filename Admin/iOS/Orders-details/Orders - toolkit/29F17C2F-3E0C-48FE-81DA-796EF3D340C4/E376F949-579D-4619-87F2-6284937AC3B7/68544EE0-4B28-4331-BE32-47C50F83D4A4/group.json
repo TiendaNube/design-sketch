@@ -1,0 +1,59 @@
+{
+  "_class": "group",
+  "do_objectID": "68544EE0-4B28-4331-BE32-47C50F83D4A4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 66,
+    "width": 375,
+    "x": 0,
+    "y": 601
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "27BD9490-94B1-4984-BFCE-54BB6647CEBC"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "683C5371-7FFB-4AB2-9E76-47F1AD4754F6"
+    },
+    {
+      "class": "text",
+      "id": "E5FB435F-D191-4A85-BB20-CCD8DEF5A2A6"
+    }
+  ],
+  "name": "Cancel Button",
+  "nameIsFixed": true,
+  "resizingConstraint": 34,
+  "resizingType": 2,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "E0847602-195F-464B-804C-878427DC0876",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 40,
+    "width": 360,
+    "x": 0,
+    "y": 75
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "masterInfluenceEdgeMaxXPadding": 0,
+  "masterInfluenceEdgeMaxYPadding": 0,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 0,
+  "name": "orders-status copy",
+  "nameIsFixed": false,
+  "overrides": {
+    "772FB61A-32EA-48F7-BC0A-46E8A1B5035B": {
+      "symbolID": "3BD06CEB-8A63-44AD-8142-4B8000428308"
+    },
+    "A1969E1C-D4BE-40CC-98CC-FB8A0459937B": "Esperando tu confirmación de pago"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "57796E39-6829-41E5-AC8F-72385C258516",
+  "verticalSpacing": 0
+}

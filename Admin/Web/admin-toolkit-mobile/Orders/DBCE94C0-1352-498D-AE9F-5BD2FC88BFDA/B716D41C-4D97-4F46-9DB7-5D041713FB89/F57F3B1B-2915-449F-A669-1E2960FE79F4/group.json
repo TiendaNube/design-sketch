@@ -1,0 +1,64 @@
+{
+  "_class": "group",
+  "do_objectID": "F57F3B1B-2915-449F-A669-1E2960FE79F4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 135,
+    "width": 359,
+    "x": 0,
+    "y": 1245
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "139E5D1D-9B49-4E10-A2D7-B22D17E12749"
+    },
+    {
+      "class": "group",
+      "id": "A57D0FDE-6A7E-4359-82CC-2A290C3503C3"
+    },
+    {
+      "class": "text",
+      "id": "61DE0E25-ABEE-423F-8C2C-57431DDB8FE4"
+    },
+    {
+      "class": "text",
+      "id": "A389A133-B3F7-4B12-9C52-764478AED922"
+    }
+  ],
+  "name": "Medio de pago Copy 2",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      },
+      "kViewTypeKey": ""
+    }
+  }
+}

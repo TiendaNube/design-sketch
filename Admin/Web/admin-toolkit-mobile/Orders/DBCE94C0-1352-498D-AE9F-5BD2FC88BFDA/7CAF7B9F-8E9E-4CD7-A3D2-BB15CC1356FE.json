@@ -1,0 +1,50 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "7CAF7B9F-8E9E-4CD7-A3D2-BB15CC1356FE",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 33,
+    "width": 95,
+    "x": 53,
+    "y": 454
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "masterInfluenceEdgeMaxXPadding": 0,
+  "masterInfluenceEdgeMaxYPadding": 0,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 0,
+  "name": "Btn-primary/withIcon",
+  "nameIsFixed": false,
+  "overrides": {
+    "3CE3CBCD-44F9-4C06-A0D1-D232C1B73807": "Whatsapp",
+    "DEB4231B-8BA9-42DE-856E-CBA9750D1CA5": "",
+    "E2949B4B-EDC6-4916-828D-674AF0E39341": "Whatsapp"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "85ACD8AB-AC5D-4EC9-AA32-806F27BBD0E2",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,63 @@
+{
+  "_class": "group",
+  "do_objectID": "BEC7DBB6-2EE8-4BAA-B0B5-DA36B54ED713",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 296,
+    "width": 360,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "B4813972-9516-475B-8070-0C8778C1B536"
+    },
+    {
+      "class": "group",
+      "id": "2688393B-D9F6-40DF-BE55-929AE9AB4803"
+    },
+    {
+      "class": "group",
+      "id": "59B75C65-5E9A-4865-8AFD-25E176F2CDDA"
+    },
+    {
+      "class": "group",
+      "id": "41FD7F5C-AF8F-4A5F-A06D-67C23F42A1EA"
+    }
+  ],
+  "name": "ordenes/dias",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

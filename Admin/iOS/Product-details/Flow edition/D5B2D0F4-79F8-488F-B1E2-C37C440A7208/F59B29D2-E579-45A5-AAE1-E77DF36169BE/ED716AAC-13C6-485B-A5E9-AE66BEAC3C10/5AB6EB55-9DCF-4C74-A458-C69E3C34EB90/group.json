@@ -1,0 +1,71 @@
+{
+  "_class": "group",
+  "do_objectID": "5AB6EB55-9DCF-4C74-A458-C69E3C34EB90",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 81,
+    "width": 54,
+    "x": 205.7658627169089,
+    "y": 1.033661008541856
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "EDD75D36-972E-4A62-86D1-69609A456FAF"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "50D96D54-745C-455E-AD40-805480134E30"
+    },
+    {
+      "class": "group",
+      "id": "595274C0-1CF3-43EF-A572-E7E324CEACC4"
+    }
+  ],
+  "name": "social copy 2",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 0,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

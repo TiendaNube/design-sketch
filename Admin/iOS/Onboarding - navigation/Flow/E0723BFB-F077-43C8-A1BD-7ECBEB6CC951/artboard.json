@@ -1,0 +1,129 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "do_objectID": "E0723BFB-F077-43C8-A1BD-7ECBEB6CC951",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 667,
+    "width": 375,
+    "x": 5464,
+    "y": 937
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "bitmap",
+      "id": "ABE3767F-83F1-48AD-A84A-C1782CAF361E"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "A513F52D-6A96-434F-97DC-573044B4EAE8"
+    },
+    {
+      "class": "group",
+      "id": "9EAF5747-2E20-4864-BA0E-54B0FBFAC2DE"
+    },
+    {
+      "class": "group",
+      "id": "956E64E9-AAFE-47E3-BD46-98CFEAB8D470"
+    },
+    {
+      "class": "text",
+      "id": "7FE44AAC-89CD-4DAF-A8B0-CB5E9F8A6D9E"
+    },
+    {
+      "class": "text",
+      "id": "1102D5B8-D604-48AC-8F5E-EC530BF37650"
+    },
+    {
+      "class": "group",
+      "id": "F11553EB-2758-45DB-ABFE-72D2B34B6489"
+    },
+    {
+      "class": "text",
+      "id": "397674FD-78A7-4977-9F7A-5439A265AD18"
+    },
+    {
+      "class": "group",
+      "id": "30614C4E-CE42-4B74-B638-360B74C3A765"
+    },
+    {
+      "class": "group",
+      "id": "651BF320-D4AF-42DA-A0FB-729D1D089ECC"
+    },
+    {
+      "class": "group",
+      "id": "3B66587B-96A3-43EA-9417-9540B146ECA0"
+    },
+    {
+      "class": "group",
+      "id": "AB7A9206-C074-480C-8433-82D2CDDAB8D9"
+    }
+  ],
+  "name": "Register-form-vas a vender",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 1,
+    "height": 667,
+    "name": "iPhone 8",
+    "offersLandscapeVariant": 1,
+    "width": 375
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

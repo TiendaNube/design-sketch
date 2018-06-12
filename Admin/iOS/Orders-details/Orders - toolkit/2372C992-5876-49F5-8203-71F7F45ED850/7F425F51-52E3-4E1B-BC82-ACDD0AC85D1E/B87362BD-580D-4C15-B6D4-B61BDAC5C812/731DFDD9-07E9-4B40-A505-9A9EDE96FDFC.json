@@ -1,0 +1,67 @@
+{
+  "_class": "bitmap",
+  "clippingMask": "{{0, 0}, {1, 1}}",
+  "do_objectID": "731DFDD9-07E9-4B40-A505-9A9EDE96FDFC",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "fillReplacesImage": false,
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 12.4345703125,
+    "width": 34.10625,
+    "x": 0.9090943785922718,
+    "y": 10
+  },
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/0b3f0fb286d48df55f7fb72785ebdf1a304b9749.png",
+    "_ref_class": "MSImageData"
+  },
+  "intendedDPI": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "paypal_multiple",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 12.43457,
+            "enabled": 1,
+            "modelID": "constraint_78b51ad6-5b43-4b0c-82aa-8b2fc47e3811",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 34.10625
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_c3b34ed1-35d6-4c25-be27-ed259aa687b1",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1
+        }
+      }
+    }
+  }
+}

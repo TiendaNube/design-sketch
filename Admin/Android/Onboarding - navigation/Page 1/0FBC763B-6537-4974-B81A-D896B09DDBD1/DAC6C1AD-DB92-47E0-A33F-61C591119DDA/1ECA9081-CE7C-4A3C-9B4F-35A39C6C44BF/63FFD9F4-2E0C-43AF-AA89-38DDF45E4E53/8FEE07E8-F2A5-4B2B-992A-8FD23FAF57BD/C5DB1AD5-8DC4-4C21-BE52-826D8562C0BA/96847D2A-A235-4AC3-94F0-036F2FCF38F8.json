@@ -1,0 +1,141 @@
+{
+  "_class": "shapePath",
+  "booleanOperation": -1,
+  "do_objectID": "96847D2A-A235-4AC3-94F0-036F2FCF38F8",
+  "edited": true,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 6.25372023809523,
+    "width": 9.000000000000009,
+    "x": 0,
+    "y": 5.628348214285722
+  },
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Path",
+  "nameIsFixed": false,
+  "path": {
+    "_class": "path",
+    "isClosed": true,
+    "pointRadiusBehaviour": 0,
+    "points": [
+      {
+        "_class": "curvePoint",
+        "cornerRadius": 0,
+        "curveFrom": "{0.87857142857142867, 0.29999999999999999}",
+        "curveMode": 4,
+        "curveTo": "{0.87857142857142867, 0}",
+        "hasCurveFrom": true,
+        "hasCurveTo": false,
+        "point": "{0.87857142857142867, 0}"
+      },
+      {
+        "_class": "curvePoint",
+        "cornerRadius": 0,
+        "curveFrom": "{0.30285714285714277, 0.51000000000000012}",
+        "curveMode": 2,
+        "curveTo": "{0.69714285714285729, 0.51000000000000012}",
+        "hasCurveFrom": true,
+        "hasCurveTo": true,
+        "point": "{0.5, 0.51000000000000012}"
+      },
+      {
+        "_class": "curvePoint",
+        "cornerRadius": 0,
+        "curveFrom": "{0.12142857142857144, 0}",
+        "curveMode": 4,
+        "curveTo": "{0.12142857142857144, 0.29999999999999999}",
+        "hasCurveFrom": false,
+        "hasCurveTo": true,
+        "point": "{0.12142857142857144, 0}"
+      },
+      {
+        "_class": "curvePoint",
+        "cornerRadius": 0,
+        "curveFrom": "{0, 0.34100000000000003}",
+        "curveMode": 4,
+        "curveTo": "{0, 0}",
+        "hasCurveFrom": true,
+        "hasCurveTo": false,
+        "point": "{0, 0}"
+      },
+      {
+        "_class": "curvePoint",
+        "cornerRadius": 0,
+        "curveFrom": "{0.42857142857142855, 0.67199999999999993}",
+        "curveMode": 4,
+        "curveTo": "{0.19428571428571434, 0.623}",
+        "hasCurveFrom": false,
+        "hasCurveTo": true,
+        "point": "{0.42857142857142855, 0.67199999999999993}"
+      },
+      {
+        "_class": "curvePoint",
+        "cornerRadius": 0,
+        "curveFrom": "{0.42857142857142855, 1}",
+        "curveMode": 1,
+        "curveTo": "{0.42857142857142855, 1}",
+        "hasCurveFrom": false,
+        "hasCurveTo": false,
+        "point": "{0.42857142857142855, 1}"
+      },
+      {
+        "_class": "curvePoint",
+        "cornerRadius": 0,
+        "curveFrom": "{0.5714285714285714, 1}",
+        "curveMode": 1,
+        "curveTo": "{0.5714285714285714, 1}",
+        "hasCurveFrom": false,
+        "hasCurveTo": false,
+        "point": "{0.5714285714285714, 1}"
+      },
+      {
+        "_class": "curvePoint",
+        "cornerRadius": 0,
+        "curveFrom": "{0.80571428571428583, 0.62399999999999989}",
+        "curveMode": 4,
+        "curveTo": "{0.5714285714285714, 0.67199999999999993}",
+        "hasCurveFrom": true,
+        "hasCurveTo": false,
+        "point": "{0.5714285714285714, 0.67199999999999993}"
+      },
+      {
+        "_class": "curvePoint",
+        "cornerRadius": 0,
+        "curveFrom": "{1, 0}",
+        "curveMode": 4,
+        "curveTo": "{1, 0.3419999999999998}",
+        "hasCurveFrom": false,
+        "hasCurveTo": true,
+        "point": "{1, 0}"
+      },
+      {
+        "_class": "curvePoint",
+        "cornerRadius": 0,
+        "curveFrom": "{0.87857142857142867, 0}",
+        "curveMode": 1,
+        "curveTo": "{0.87857142857142867, 0}",
+        "hasCurveFrom": false,
+        "hasCurveTo": false,
+        "point": "{0.87857142857142867, 0}"
+      }
+    ]
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false
+}

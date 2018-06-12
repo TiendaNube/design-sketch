@@ -1,0 +1,56 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "A278A0E2-E290-4D94-8353-71861B0E3653",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "773B4766-5691-4D89-B256-0DE7A4B105BB",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "7301A4B4-A973-41EE-BAE6-1E1B7CB6BAA5",
+    "height": 128,
+    "width": 360,
+    "x": 0,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "masterInfluenceEdgeMaxXPadding": 8,
+  "masterInfluenceEdgeMaxYPadding": 12,
+  "masterInfluenceEdgeMinXPadding": 8,
+  "masterInfluenceEdgeMinYPadding": 4,
+  "name": "bar navigation",
+  "nameIsFixed": true,
+  "overrides": {
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "E5D52F36-E493-44BE-8214-7A8BEEE4B429",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "CF68A9C9-873B-42EE-99CB-B51668ED5F8D",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

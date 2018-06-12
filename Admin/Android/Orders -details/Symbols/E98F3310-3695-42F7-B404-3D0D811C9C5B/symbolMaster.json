@@ -1,0 +1,87 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "changeIdentifier": 3,
+  "do_objectID": "E98F3310-3695-42F7-B404-3D0D811C9C5B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 24,
+    "width": 118,
+    "x": 944,
+    "y": 0
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "92E3F271-A7D5-4C3D-A564-52F68882BE61"
+    },
+    {
+      "class": "group",
+      "id": "2D63FBC5-67FB-4889-8458-29F0BA7C4A84"
+    },
+    {
+      "class": "group",
+      "id": "D8D03FE5-7256-4313-98A9-EF61C3800503"
+    },
+    {
+      "class": "group",
+      "id": "34BA21A0-E1FE-41CF-934C-E9F5666848FF"
+    },
+    {
+      "class": "group",
+      "id": "EEC4CD3A-9609-4553-91FD-4DC76DD71D73"
+    }
+  ],
+  "name": "Material/Android/Status bar content",
+  "nameIsFixed": false,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "458A8BD6-CDF7-43BD-8DD4-A1B814ECEF0B",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

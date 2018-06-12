@@ -1,0 +1,46 @@
+{
+  "_class": "shapeGroup",
+  "clippingMaskMode": 0,
+  "do_objectID": "B4EE8C4C-B037-483D-A872-3FE7B14E57D0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 29,
+    "width": 94,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "F25D3ED2-4018-4088-8160-71C42BDE609B"
+    }
+  ],
+  "name": "Button Background",
+  "nameIsFixed": true,
+  "originalObjectID": "B4EE8C4C-B037-483D-A872-3FE7B14E57D0",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "sharedObjectID": "4DD785BE-6949-411C-BB8E-ABC249E1B7A9"
+  },
+  "windingRule": 1
+}

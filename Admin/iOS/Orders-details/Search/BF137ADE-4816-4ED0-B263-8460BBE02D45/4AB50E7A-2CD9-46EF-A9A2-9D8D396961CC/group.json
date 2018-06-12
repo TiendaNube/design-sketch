@@ -1,0 +1,67 @@
+{
+  "_class": "group",
+  "do_objectID": "4AB50E7A-2CD9-46EF-A9A2-9D8D396961CC",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 65,
+    "width": 322,
+    "x": 0,
+    "y": -1
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "44FAA38F-5E62-41E7-9408-9A6CD3FE6240"
+    },
+    {
+      "class": "text",
+      "id": "69914A8D-DAD4-43AA-AF99-E6A1B8AF5819"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1BD24EA7-E00C-4B24-ACD4-B257178BED78"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "5EA07137-A0C5-4E62-B938-0329B240F761"
+    },
+    {
+      "class": "text",
+      "id": "C656C5BD-063A-4EF0-B490-7E51D8B5EC4C"
+    }
+  ],
+  "name": "Navigation Bar/Back",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

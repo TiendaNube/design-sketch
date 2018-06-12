@@ -1,0 +1,83 @@
+{
+  "_class": "shapeGroup",
+  "clippingMaskMode": 0,
+  "do_objectID": "2F086CB4-18BC-42C6-957E-0A39CACD928E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 5.5,
+    "width": 33.5,
+    "x": 0.5,
+    "y": 4.5
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "oval",
+      "id": "5D15DCC7-0CF6-416E-997B-1FCD601E14A9"
+    },
+    {
+      "class": "oval",
+      "id": "4D4A762C-603E-4364-98D7-9506B3B149F0"
+    },
+    {
+      "class": "oval",
+      "id": "0ECB31FD-C30C-47C4-819F-0CE71A97BD31"
+    },
+    {
+      "class": "oval",
+      "id": "51A62406-B13A-4AF3-9F27-F68B5603E839"
+    },
+    {
+      "class": "oval",
+      "id": "73B981A0-3296-4A23-89D5-2492A3E82EAC"
+    }
+  ],
+  "name": "Mobile Signal",
+  "nameIsFixed": true,
+  "originalObjectID": "2D14B331-D6AD-4FF9-A8F4-90CF0337B1DA",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 0,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "windingRule": 1
+}

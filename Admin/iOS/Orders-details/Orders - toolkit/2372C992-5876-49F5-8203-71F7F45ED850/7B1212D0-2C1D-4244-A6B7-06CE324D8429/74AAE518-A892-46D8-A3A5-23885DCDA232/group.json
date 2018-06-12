@@ -1,0 +1,63 @@
+{
+  "_class": "group",
+  "do_objectID": "74AAE518-A892-46D8-A3A5-23885DCDA232",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 129,
+    "width": 375,
+    "x": 427,
+    "y": 59
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "9FA468B7-32AB-4A61-AFAA-014D87BF89E1"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "D47B055B-CFAB-44B8-892A-6C7D8C27DD44"
+    },
+    {
+      "class": "text",
+      "id": "27F6B1B3-AA50-4FDF-95C7-102D9EDBAA41"
+    },
+    {
+      "class": "group",
+      "id": "ECDE0389-0A2C-4DB6-A980-420D4E7C7B31"
+    }
+  ],
+  "name": "Notas",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

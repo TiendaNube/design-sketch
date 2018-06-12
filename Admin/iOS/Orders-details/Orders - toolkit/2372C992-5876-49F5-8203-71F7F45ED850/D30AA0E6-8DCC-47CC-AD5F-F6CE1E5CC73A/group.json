@@ -1,0 +1,63 @@
+{
+  "_class": "group",
+  "do_objectID": "D30AA0E6-8DCC-47CC-AD5F-F6CE1E5CC73A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 98,
+    "width": 375,
+    "x": 3333,
+    "y": 704
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "A65249D3-4D5F-457A-8059-9C8A1A78C673"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "467860AC-3F07-4DD3-94CB-79C7F97C6D0C"
+    },
+    {
+      "class": "group",
+      "id": "F1937468-53B2-42C7-A575-82ADB9E20FC9"
+    },
+    {
+      "class": "group",
+      "id": "0AE4CA5A-B4E1-439A-BDFE-A2BC3B59BB3A"
+    }
+  ],
+  "name": "Cell/Cell with Icon and Subtitle Copy",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}
