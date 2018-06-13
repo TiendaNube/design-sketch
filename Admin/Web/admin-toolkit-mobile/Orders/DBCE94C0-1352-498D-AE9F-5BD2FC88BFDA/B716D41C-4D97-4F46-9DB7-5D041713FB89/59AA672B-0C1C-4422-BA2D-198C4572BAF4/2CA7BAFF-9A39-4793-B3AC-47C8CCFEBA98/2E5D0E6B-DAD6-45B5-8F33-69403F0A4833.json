@@ -24,27 +24,38 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 1,
-  "masterInfluenceEdgeMaxXPadding": 0,
-  "masterInfluenceEdgeMaxYPadding": 1,
-  "masterInfluenceEdgeMinXPadding": 0,
-  "masterInfluenceEdgeMinYPadding": 0,
   "name": "list-order copy",
   "nameIsFixed": false,
-  "overrides": {
-    "11CB65AB-F08E-4A1F-82B1-9FE070A177EA": {
-      "D19DE224-FA44-4236-9467-964424910678": {
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "66297FA0-E0BE-4492-A1D5-9A7C9F4BD24C_stringValue",
+      "value": "Top cropped"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "11CB65AB-F08E-4A1F-82B1-9FE070A177EA/D19DE224-FA44-4236-9467-964424910678_image",
+      "value": {
         "_class": "MSJSONFileReference",
-        "_ref": "images/5cc7e4fe2ecdd660737535418540ea558b2ce846",
+        "_ref": "images/5cc7e4fe2ecdd660737535418540ea558b2ce846.png",
         "_ref_class": "MSImageData"
       }
     },
-    "359C957B-E472-420C-B2DA-CD8D2EB36517": "2 x $400",
-    "41EDF02F-14FB-40D2-9B88-E49B5DF74352": "$800",
-    "66297FA0-E0BE-4492-A1D5-9A7C9F4BD24C": "Top cropped"
-  },
+    {
+      "_class": "overrideValue",
+      "overrideName": "41EDF02F-14FB-40D2-9B88-E49B5DF74352_stringValue",
+      "value": "$800"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "359C957B-E472-420C-B2DA-CD8D2EB36517_stringValue",
+      "value": "2 x $400"
+    }
+  ],
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 0,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",

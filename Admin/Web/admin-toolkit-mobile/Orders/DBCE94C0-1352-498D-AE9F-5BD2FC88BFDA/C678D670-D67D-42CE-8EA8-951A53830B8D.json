@@ -24,18 +24,19 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "masterInfluenceEdgeMaxXPadding": 0,
-  "masterInfluenceEdgeMaxYPadding": 0,
-  "masterInfluenceEdgeMinXPadding": 0,
-  "masterInfluenceEdgeMinYPadding": 0,
   "name": "label/notice/default",
   "nameIsFixed": false,
-  "overrides": {
-    "CE28374C-89C6-429B-B287-D2AA320E7A1B": "x2"
-  },
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "CE28374C-89C6-429B-B287-D2AA320E7A1B_stringValue",
+      "value": "x2"
+    }
+  ],
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 0,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",

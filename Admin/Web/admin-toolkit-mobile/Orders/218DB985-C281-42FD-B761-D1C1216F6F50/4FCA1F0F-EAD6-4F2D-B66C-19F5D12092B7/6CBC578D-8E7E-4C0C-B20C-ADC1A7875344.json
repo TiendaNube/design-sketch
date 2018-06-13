@@ -24,33 +24,44 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 1,
-  "masterInfluenceEdgeMaxXPadding": 30,
-  "masterInfluenceEdgeMaxYPadding": 3,
-  "masterInfluenceEdgeMinXPadding": 0,
-  "masterInfluenceEdgeMinYPadding": 0,
   "name": "orders-list copy 2",
   "nameIsFixed": false,
-  "overrides": {
-    "369ACF76-574C-4E8F-8F17-F01663ABEF8B": {
-      "symbolID": "3FEABAB7-E440-4F2B-BAC9-859FDF05F6D6"
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "D86A0429-D35B-4EF4-A0A8-530C1E19CEC8_symbolID",
+      "value": "E3732DFE-F106-4E2F-BE8D-F6152F149A91"
     },
-    "3E4FDD08-B1B8-40C4-B603-41EE7FA6C979": {
-      "symbolID": "E60AACE7-C205-4ACD-9A6C-EC0EED22BBEB"
+    {
+      "_class": "overrideValue",
+      "overrideName": "4432F742-4E86-4706-80D6-5CD24A7F54F9_symbolID",
+      "value": "47F76EB0-2F29-4EE4-8CE8-BC96F5709ED3"
     },
-    "4432F742-4E86-4706-80D6-5CD24A7F54F9": {
-      "symbolID": "47F76EB0-2F29-4EE4-8CE8-BC96F5709ED3"
+    {
+      "_class": "overrideValue",
+      "overrideName": "369ACF76-574C-4E8F-8F17-F01663ABEF8B_symbolID",
+      "value": "3FEABAB7-E440-4F2B-BAC9-859FDF05F6D6"
     },
-    "7BA66110-0082-40AF-A6D0-F3885F91A7BE": {
-      "symbolID": "F12E1C2B-2360-4E00-B663-1E6E6DCB2655"
+    {
+      "_class": "overrideValue",
+      "overrideName": "7BA66110-0082-40AF-A6D0-F3885F91A7BE_symbolID",
+      "value": "F12E1C2B-2360-4E00-B663-1E6E6DCB2655"
     },
-    "C0A0F9E3-BA12-4742-99E0-251FE71DB225": "Paga y enviada",
-    "D86A0429-D35B-4EF4-A0A8-530C1E19CEC8": {
-      "symbolID": "E3732DFE-F106-4E2F-BE8D-F6152F149A91"
+    {
+      "_class": "overrideValue",
+      "overrideName": "3E4FDD08-B1B8-40C4-B603-41EE7FA6C979_symbolID",
+      "value": "E60AACE7-C205-4ACD-9A6C-EC0EED22BBEB"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "C0A0F9E3-BA12-4742-99E0-251FE71DB225_stringValue",
+      "value": "Paga y enviada"
     }
-  },
+  ],
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 0,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",

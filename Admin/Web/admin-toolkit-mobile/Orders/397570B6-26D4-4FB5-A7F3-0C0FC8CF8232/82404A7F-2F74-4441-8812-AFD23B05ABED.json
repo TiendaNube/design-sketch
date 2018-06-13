@@ -24,21 +24,24 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 1,
-  "masterInfluenceEdgeMaxXPadding": 0,
-  "masterInfluenceEdgeMaxYPadding": 0,
-  "masterInfluenceEdgeMinXPadding": 0,
-  "masterInfluenceEdgeMinYPadding": 0,
   "name": "orders-status single-info",
   "nameIsFixed": false,
-  "overrides": {
-    "34DEF596-A644-4EE8-BE10-61E4EA80329B": "Pago e enviado",
-    "E5E31A58-B7A6-41E3-9ED5-413235FF43C4": {
-      "symbolID": "CF9413CE-FC08-46F2-85F9-F9F1937218E4"
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "E5E31A58-B7A6-41E3-9ED5-413235FF43C4_symbolID",
+      "value": "CF9413CE-FC08-46F2-85F9-F9F1937218E4"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "34DEF596-A644-4EE8-BE10-61E4EA80329B_stringValue",
+      "value": "Pago e enviado"
     }
-  },
+  ],
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 0,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
