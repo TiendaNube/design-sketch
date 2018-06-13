@@ -23,14 +23,16 @@
           "paragraphStyle": {
             "_class": "paragraphStyle",
             "alignment": 0,
+            "maximumLineHeight": 30,
+            "minimumLineHeight": 30,
             "paragraphSpacing": 10
           }
         },
-        "length": 10,
+        "length": 11,
         "location": 0
       }
     ],
-    "string": "H2 Heading"
+    "string": "H2 heading "
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "703B67CF-6493-41DC-B7CA-72A58A16C5A0",
@@ -49,19 +51,19 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "C2DCE5BD-E858-47F8-97FD-703F9FFA3A2B",
-    "height": 33,
+    "height": 30,
     "width": 136,
     "x": 0,
     "y": 0
   },
-  "glyphBounds": "{{2, 7}, {132, 25}}",
+  "glyphBounds": "{{2, 5}, {129, 25}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "H2 Heading",
+  "name": "H2 heading",
   "nameIsFixed": false,
   "resizingConstraint": 59,
   "resizingType": 0,
@@ -95,6 +97,8 @@
         "paragraphStyle": {
           "_class": "paragraphStyle",
           "alignment": 0,
+          "maximumLineHeight": 30,
+          "minimumLineHeight": 30,
           "paragraphSpacing": 10
         }
       },
