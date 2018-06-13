@@ -1,0 +1,56 @@
+{
+  "_class": "group",
+  "do_objectID": "083BA22C-D2E9-4875-A6BB-9B09FD98F237",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B7E9EF07-BAB8-405A-9126-37FE4C864B47",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "6DF3EFFC-E159-4C36-AB27-AB2764C08A34",
+    "height": 11,
+    "width": 65,
+    "x": 105,
+    "y": 385
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "2C7130CF-D460-4228-B47F-4215CBCA09E9"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "291B093E-7EAB-4E21-B5F9-62EB7BDA13F7"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "2E29C4B0-42D7-4E37-B546-D2BFF985270E"
+    }
+  ],
+  "name": "bullets",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C1CFC941-CF73-44A8-9D65-B1E1342F14F8",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}
