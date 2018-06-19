@@ -1,0 +1,71 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "0ED91DD0-B65E-48A1-AE19-A8BF1F0E2C65",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "1BBDB4DB-0221-4E8C-8879-353A08089E66",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "D802E5E6-283B-455E-936D-5A2AC4D17096",
+    "height": 122,
+    "width": 159,
+    "x": 254,
+    "y": 803
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "card-color copy 11",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "70AA50B7-1744-432B-B6BB-E2300A51D546",
+      "overrideName": "5F6246EA-9AD7-4777-BF94-201B0FBB9A27_symbolID",
+      "value": "3A6F3C9B-9554-4116-96E8-0606441A7ED7"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "1B71DDED-5B24-4457-9175-7E5EBD9E835A",
+      "overrideName": "AF016A93-7967-42DF-BB51-EB230D40D88E_stringValue",
+      "value": "Secondary light"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "108329B9-AA57-4536-92DA-1A485E6A9000",
+      "overrideName": "58D9CFD4-3065-42B4-A169-FD7466889EC6_stringValue",
+      "value": "#ff7e47 30%"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "111D7B3F-9FDE-461B-87BE-E7B94C97990D",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "3354B637-AB1B-4312-BF6E-4B6D358EB864",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

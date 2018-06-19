@@ -26,37 +26,54 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 1,
-  "masterInfluenceEdgeMaxXPadding": 30,
-  "masterInfluenceEdgeMaxYPadding": 3,
-  "masterInfluenceEdgeMinXPadding": 0,
-  "masterInfluenceEdgeMinYPadding": 0,
   "name": "orders-list copy 3",
   "nameIsFixed": false,
-  "overrides": {
-    "369ACF76-574C-4E8F-8F17-F01663ABEF8B": {
-      "symbolID": "D85E46CB-9E4E-4409-BCDC-D29DFF65CCC5"
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "D86A0429-D35B-4EF4-A0A8-530C1E19CEC8_symbolID",
+      "value": "3B6F2FDE-C8CB-479D-A28C-1FA11098B3DE"
     },
-    "3E4FDD08-B1B8-40C4-B603-41EE7FA6C979": {
-      "symbolID": "E60AACE7-C205-4ACD-9A6C-EC0EED22BBEB"
+    {
+      "_class": "overrideValue",
+      "overrideName": "4432F742-4E86-4706-80D6-5CD24A7F54F9/A1969E1C-D4BE-40CC-98CC-FB8A0459937B_stringValue",
+      "value": "Pronta para embalar"
     },
-    "4432F742-4E86-4706-80D6-5CD24A7F54F9": {
-      "772FB61A-32EA-48F7-BC0A-46E8A1B5035B": {
-        "symbolID": "FCDCB036-D80D-4C36-8F36-80F121D38828"
-      },
-      "A1969E1C-D4BE-40CC-98CC-FB8A0459937B": "Pronta para embalar",
-      "E5665444-3025-4990-A26F-2496284121CF": "Correios - SEDEX 10"
+    {
+      "_class": "overrideValue",
+      "overrideName": "4432F742-4E86-4706-80D6-5CD24A7F54F9/E5665444-3025-4990-A26F-2496284121CF_stringValue",
+      "value": "Correios - SEDEX 10"
     },
-    "7BA66110-0082-40AF-A6D0-F3885F91A7BE": {
-      "symbolID": "6E57408C-5A1B-4F8E-A0A4-BE2177FB448D"
+    {
+      "_class": "overrideValue",
+      "overrideName": "4432F742-4E86-4706-80D6-5CD24A7F54F9/772FB61A-32EA-48F7-BC0A-46E8A1B5035B_symbolID",
+      "value": "FCDCB036-D80D-4C36-8F36-80F121D38828"
     },
-    "C0A0F9E3-BA12-4742-99E0-251FE71DB225": "Esperando envio",
-    "D86A0429-D35B-4EF4-A0A8-530C1E19CEC8": {
-      "symbolID": "3B6F2FDE-C8CB-479D-A28C-1FA11098B3DE"
+    {
+      "_class": "overrideValue",
+      "overrideName": "369ACF76-574C-4E8F-8F17-F01663ABEF8B_symbolID",
+      "value": "D85E46CB-9E4E-4409-BCDC-D29DFF65CCC5"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "7BA66110-0082-40AF-A6D0-F3885F91A7BE_symbolID",
+      "value": "6E57408C-5A1B-4F8E-A0A4-BE2177FB448D"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "3E4FDD08-B1B8-40C4-B603-41EE7FA6C979_symbolID",
+      "value": "E60AACE7-C205-4ACD-9A6C-EC0EED22BBEB"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "C0A0F9E3-BA12-4742-99E0-251FE71DB225_stringValue",
+      "value": "Esperando envio"
     }
-  },
+  ],
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 0,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",

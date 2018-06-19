@@ -24,18 +24,19 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 1,
-  "masterInfluenceEdgeMaxXPadding": 0,
-  "masterInfluenceEdgeMaxYPadding": 0,
-  "masterInfluenceEdgeMinXPadding": 0,
-  "masterInfluenceEdgeMinYPadding": 0,
   "name": "Btn-secondary/withIcon",
   "nameIsFixed": false,
-  "overrides": {
-    "3CE3CBCD-44F9-4C06-A0D1-D232C1B73807": "E-mail"
-  },
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "3CE3CBCD-44F9-4C06-A0D1-D232C1B73807_stringValue",
+      "value": "E-mail"
+    }
+  ],
   "resizingConstraint": 45,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 0,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",

@@ -1,0 +1,71 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "16E73B11-EBF7-4371-A69C-5BCC7F0C9956",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "60B58E94-5924-4076-BBAC-73E8A44A0A11",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "858BD949-7713-460F-A774-4E70D4460039",
+    "height": 122,
+    "width": 159,
+    "x": 433,
+    "y": 803
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "card-color copy 13",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "70AA50B7-1744-432B-B6BB-E2300A51D546",
+      "overrideName": "5F6246EA-9AD7-4777-BF94-201B0FBB9A27_symbolID",
+      "value": "669AEB02-1864-43A0-91D7-F9A30EF8B487"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "1B71DDED-5B24-4457-9175-7E5EBD9E835A",
+      "overrideName": "AF016A93-7967-42DF-BB51-EB230D40D88E_stringValue",
+      "value": "Success light"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "108329B9-AA57-4536-92DA-1A485E6A9000",
+      "overrideName": "58D9CFD4-3065-42B4-A169-FD7466889EC6_stringValue",
+      "value": "#c52e2e 30%"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "69BDDF21-AE09-4D74-80BC-442195449183",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "3354B637-AB1B-4312-BF6E-4B6D358EB864",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

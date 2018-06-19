@@ -24,20 +24,29 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 1,
-  "masterInfluenceEdgeMaxXPadding": 0,
-  "masterInfluenceEdgeMaxYPadding": 0,
-  "masterInfluenceEdgeMinXPadding": 0,
-  "masterInfluenceEdgeMinYPadding": 0,
   "name": "Btn-primary/withIcon",
   "nameIsFixed": false,
-  "overrides": {
-    "3CE3CBCD-44F9-4C06-A0D1-D232C1B73807": "Whatsapp",
-    "DEB4231B-8BA9-42DE-856E-CBA9750D1CA5": "",
-    "E2949B4B-EDC6-4916-828D-674AF0E39341": "Whatsapp"
-  },
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "E2949B4B-EDC6-4916-828D-674AF0E39341_stringValue",
+      "value": "Whatsapp"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "3CE3CBCD-44F9-4C06-A0D1-D232C1B73807_stringValue",
+      "value": "Whatsapp"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "DEB4231B-8BA9-42DE-856E-CBA9750D1CA5_stringValue",
+      "value": ""
+    }
+  ],
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 0,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",

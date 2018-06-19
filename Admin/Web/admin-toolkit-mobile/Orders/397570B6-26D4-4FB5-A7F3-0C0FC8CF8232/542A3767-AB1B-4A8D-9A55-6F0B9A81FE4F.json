@@ -24,22 +24,29 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 1,
-  "masterInfluenceEdgeMaxXPadding": 0,
-  "masterInfluenceEdgeMaxYPadding": 0,
-  "masterInfluenceEdgeMinXPadding": 0,
-  "masterInfluenceEdgeMinYPadding": 0,
   "name": "orders-status copy",
   "nameIsFixed": false,
-  "overrides": {
-    "772FB61A-32EA-48F7-BC0A-46E8A1B5035B": {
-      "symbolID": "3BD06CEB-8A63-44AD-8142-4B8000428308"
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "A1969E1C-D4BE-40CC-98CC-FB8A0459937B_stringValue",
+      "value": "Esperando sua confirmação de pagamento"
     },
-    "A1969E1C-D4BE-40CC-98CC-FB8A0459937B": "Esperando sua confirmação de pagamento",
-    "E5665444-3025-4990-A26F-2496284121CF": "Meio de pagamento"
-  },
+    {
+      "_class": "overrideValue",
+      "overrideName": "772FB61A-32EA-48F7-BC0A-46E8A1B5035B_symbolID",
+      "value": "3BD06CEB-8A63-44AD-8142-4B8000428308"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "E5665444-3025-4990-A26F-2496284121CF_stringValue",
+      "value": "Meio de pagamento"
+    }
+  ],
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 0,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",

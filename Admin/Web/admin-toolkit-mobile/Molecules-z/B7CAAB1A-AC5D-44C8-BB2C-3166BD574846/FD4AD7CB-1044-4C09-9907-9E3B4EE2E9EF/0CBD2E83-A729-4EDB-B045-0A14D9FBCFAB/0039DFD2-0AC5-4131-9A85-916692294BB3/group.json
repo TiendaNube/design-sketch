@@ -1,0 +1,63 @@
+{
+  "_class": "group",
+  "do_objectID": "0039DFD2-0AC5-4131-9A85-916692294BB3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 109,
+    "width": 253,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "43C50852-9E1F-4408-AC2A-DE0ACB8C04A3"
+    },
+    {
+      "class": "text",
+      "id": "6A11DF94-1900-4EFE-B1E1-AED765315F8C"
+    },
+    {
+      "class": "text",
+      "id": "F22BA04B-ABCF-40ED-A3C6-C5DEF782440B"
+    },
+    {
+      "class": "group",
+      "id": "E93EF4B1-4465-4457-9833-30CED07BB147"
+    }
+  ],
+  "name": "account switcher",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

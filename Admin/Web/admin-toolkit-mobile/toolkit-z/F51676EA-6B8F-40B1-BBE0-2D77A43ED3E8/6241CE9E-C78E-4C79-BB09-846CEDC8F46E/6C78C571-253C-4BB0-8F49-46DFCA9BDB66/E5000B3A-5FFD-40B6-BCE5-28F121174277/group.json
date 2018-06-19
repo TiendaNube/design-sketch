@@ -1,0 +1,62 @@
+{
+  "_class": "group",
+  "do_objectID": "E5000B3A-5FFD-40B6-BCE5-28F121174277",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "09DAA727-B19E-41F6-B1E2-CADE7FF1F5DB",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "71DC06FA-244A-426C-AAD3-2736F1FC8229",
+    "height": 593,
+    "width": 254,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "0FF7E5D4-522F-42DE-A934-36CC98AB1A15"
+    },
+    {
+      "class": "group",
+      "id": "B74FC2D1-4FCC-4665-9B49-69477BA5D33E"
+    },
+    {
+      "class": "group",
+      "id": "E7FDE69C-2820-463C-A95A-A3EEAA0774E8"
+    }
+  ],
+  "name": "side nav drawer",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "F9DBC208-249D-4484-BBB3-0354AA3BA160",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}
