@@ -24,19 +24,24 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 1,
-  "masterInfluenceEdgeMaxXPadding": 0,
-  "masterInfluenceEdgeMaxYPadding": 0,
-  "masterInfluenceEdgeMinXPadding": 0,
-  "masterInfluenceEdgeMinYPadding": 0,
   "name": "Link-secondary/withIcon",
   "nameIsFixed": false,
-  "overrides": {
-    "1B89D117-FAB0-47C2-888B-832CF507B06F": "Cancelar pedido",
-    "96E3CFE8-85F5-4FFB-A054-C6B372300269": ""
-  },
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "96E3CFE8-85F5-4FFB-A054-C6B372300269_stringValue",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "1B89D117-FAB0-47C2-888B-832CF507B06F_stringValue",
+      "value": "Cancelar pedido"
+    }
+  ],
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 0,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",

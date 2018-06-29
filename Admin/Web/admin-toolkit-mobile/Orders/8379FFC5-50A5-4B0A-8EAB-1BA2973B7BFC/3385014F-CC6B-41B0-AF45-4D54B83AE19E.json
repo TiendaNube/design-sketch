@@ -24,21 +24,24 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 1,
-  "masterInfluenceEdgeMaxXPadding": 0,
-  "masterInfluenceEdgeMaxYPadding": 0,
-  "masterInfluenceEdgeMinXPadding": 0,
-  "masterInfluenceEdgeMinYPadding": 0,
   "name": "orders-status single-info copy 2",
   "nameIsFixed": false,
-  "overrides": {
-    "34DEF596-A644-4EE8-BE10-61E4EA80329B": "Cancelada",
-    "E5E31A58-B7A6-41E3-9ED5-413235FF43C4": {
-      "symbolID": "37EB62DF-B505-4DE5-8806-B450BA2A30BD"
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "E5E31A58-B7A6-41E3-9ED5-413235FF43C4_symbolID",
+      "value": "37EB62DF-B505-4DE5-8806-B450BA2A30BD"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "34DEF596-A644-4EE8-BE10-61E4EA80329B_stringValue",
+      "value": "Cancelada"
     }
-  },
+  ],
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 0,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",

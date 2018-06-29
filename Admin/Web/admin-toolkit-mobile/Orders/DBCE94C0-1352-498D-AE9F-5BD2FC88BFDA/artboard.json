@@ -37,6 +37,7 @@
   "includeInCloudUpload": true,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
+  "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 1,
@@ -64,6 +65,10 @@
     {
       "class": "symbolInstance",
       "id": "C678D670-D67D-42CE-8EA8-951A53830B8D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A2173E86-6414-4D31-A3B7-F30FAF14CA14"
     }
   ],
   "name": "OrderDetail",
@@ -72,7 +77,7 @@
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "shouldBreakMaskChain": false,
+  "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
     "endDecorationType": 0,

@@ -1,0 +1,71 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "8280CDE9-1C8F-4516-8297-165A47558EA5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "93DC824C-CC0E-4B55-920B-57C321609CB8",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "19FD3894-8045-46F9-B43A-DA9AD1D63C01",
+    "height": 122,
+    "width": 159,
+    "x": 433,
+    "y": 447
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "card-color copy 5",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "70AA50B7-1744-432B-B6BB-E2300A51D546",
+      "overrideName": "5F6246EA-9AD7-4777-BF94-201B0FBB9A27_symbolID",
+      "value": "9F8CC12E-B0B0-4D49-A235-91B027AD97DC"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "1B71DDED-5B24-4457-9175-7E5EBD9E835A",
+      "overrideName": "AF016A93-7967-42DF-BB51-EB230D40D88E_stringValue",
+      "value": "Danger"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "108329B9-AA57-4536-92DA-1A485E6A9000",
+      "overrideName": "58D9CFD4-3065-42B4-A169-FD7466889EC6_stringValue",
+      "value": "#c52e2e"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "4C3AC89D-0D77-44D3-BB0B-49D6AA265FDF",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "3354B637-AB1B-4312-BF6E-4B6D358EB864",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

@@ -1,0 +1,67 @@
+{
+  "_class": "group",
+  "do_objectID": "F9A8C6A8-8FAD-45EA-90C3-7F32FEF6C317",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 62,
+    "width": 360,
+    "x": 0,
+    "y": 66
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "EC2B6290-E3D7-4507-9148-A9515061B6EF"
+    },
+    {
+      "class": "group",
+      "id": "825DF402-ED47-41BC-BDF3-378062B84D04"
+    },
+    {
+      "class": "group",
+      "id": "666DAF5D-4AFE-4763-9E0F-19C3874A5EDD"
+    },
+    {
+      "class": "group",
+      "id": "CF0FAB8D-1C1D-4502-BCEA-CFDB31387AB9"
+    },
+    {
+      "class": "group",
+      "id": "4045D7AA-2DFB-4CC4-88C9-D4DC896F5A2D"
+    }
+  ],
+  "name": "tabs",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

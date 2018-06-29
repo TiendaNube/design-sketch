@@ -1,0 +1,70 @@
+{
+  "_class": "page",
+  "do_objectID": "C7DC9533-6402-4924-8CF3-1E09FF0ADAFA",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 300,
+    "width": 300,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": -317,
+    "guides": [
+    ]
+  },
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "B928041D-0DFF-43D5-9D2F-84219523CBE8"
+    },
+    {
+      "class": "group",
+      "id": "C4FE152D-0485-475A-B3B1-A3AB251ED509"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "AA8A4B9F-37BF-4CD0-B2E5-57A379E066A6"
+    },
+    {
+      "class": "group",
+      "id": "066EFBC9-9E17-4067-B15C-3D336617B177"
+    }
+  ],
+  "name": "Canais de venda",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": -209,
+    "guides": [
+    ]
+  }
+}

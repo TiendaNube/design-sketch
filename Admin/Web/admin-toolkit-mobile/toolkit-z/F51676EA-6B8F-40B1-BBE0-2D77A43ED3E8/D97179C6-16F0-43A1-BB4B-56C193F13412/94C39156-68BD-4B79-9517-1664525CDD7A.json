@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "94C39156-68BD-4B79-9517-1664525CDD7A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "4E46F6CD-0FB6-45B2-85D8-33B8F994D4C1",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "4D35F524-7EAF-4C61-A0A7-090E7DFB4F4A",
+    "height": 33,
+    "width": 72,
+    "x": 97,
+    "y": 156
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "name": "Tab-off",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "EF68D80B-07F4-4894-822E-BE5BFF864311_stringValue",
+      "value": "Tab 02"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "5CFFFCA3-FD13-494B-B5BB-EF25443195F0",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "A2E3FA34-E746-473C-AFAA-F7D86B81436F",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

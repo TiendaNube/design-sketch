@@ -1,0 +1,71 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "60438F74-3C44-4237-B4DF-C2DB2C7AA2CE",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "7B76CFCB-A417-4F9B-A71B-88F5C437BF85",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "761C0791-CBF1-4D56-8B70-571628DB8F62",
+    "height": 56,
+    "width": 966,
+    "x": 16,
+    "y": 235
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "order/line-without-stripe copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "9CB2E53D-FC18-4E6A-B2B5-9C305B04B944",
+      "overrideName": "9A4967C2-EF31-4247-AA23-0ECCBF5D6A23/18FA7060-830A-41FF-93A9-5BDC4E274347_symbolID",
+      "value": "93EFC784-49EF-4176-97C4-A04BB2AF10D4"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "7920375D-C770-4099-AF34-A205C179FBC6",
+      "overrideName": "9A4967C2-EF31-4247-AA23-0ECCBF5D6A23/C88FB2F0-70C7-427A-93B0-22E2E8A24DFE_stringValue",
+      "value": "Frete"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "7236244A-D0F3-4EB1-8969-8902CB13FFD8",
+      "overrideName": "9A4967C2-EF31-4247-AA23-0ECCBF5D6A23/9DEC5653-BB29-4C3D-AFE1-9126DB0FEE1B_stringValue",
+      "value": "FreteEsperando a confirmação de envio"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "AF45E444-EE31-4FCF-BC69-3D03E0B441D3",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "13A62299-5EC8-4210-8075-6A804B8923B7",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

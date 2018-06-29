@@ -37,6 +37,7 @@
   "includeInCloudUpload": true,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
+  "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 1,
@@ -44,6 +45,10 @@
     {
       "class": "group",
       "id": "4FCA1F0F-EAD6-4F2D-B66C-19F5D12092B7"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1F0F3323-04E3-4E4C-B717-95B8A3325A50"
     }
   ],
   "name": "OrderList: Bulk actions",
@@ -52,7 +57,7 @@
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "shouldBreakMaskChain": false,
+  "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
     "endDecorationType": 0,

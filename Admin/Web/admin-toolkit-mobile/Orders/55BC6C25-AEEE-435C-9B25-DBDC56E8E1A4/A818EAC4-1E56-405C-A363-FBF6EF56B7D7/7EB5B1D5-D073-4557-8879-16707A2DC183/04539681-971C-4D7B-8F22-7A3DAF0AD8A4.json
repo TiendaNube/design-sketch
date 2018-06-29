@@ -26,21 +26,24 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 1,
-  "masterInfluenceEdgeMaxXPadding": 30,
-  "masterInfluenceEdgeMaxYPadding": 3,
-  "masterInfluenceEdgeMinXPadding": 0,
-  "masterInfluenceEdgeMinYPadding": 0,
   "name": "orders-list",
   "nameIsFixed": false,
-  "overrides": {
-    "4432F742-4E86-4706-80D6-5CD24A7F54F9": {
-      "A1969E1C-D4BE-40CC-98CC-FB8A0459937B": "Aguardando confirmaçã de pagamento",
-      "E5665444-3025-4990-A26F-2496284121CF": "Pagseguro"
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "4432F742-4E86-4706-80D6-5CD24A7F54F9/A1969E1C-D4BE-40CC-98CC-FB8A0459937B_stringValue",
+      "value": "Aguardando confirmaçã de pagamento"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "4432F742-4E86-4706-80D6-5CD24A7F54F9/E5665444-3025-4990-A26F-2496284121CF_stringValue",
+      "value": "Pagseguro"
     }
-  },
+  ],
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 0,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",

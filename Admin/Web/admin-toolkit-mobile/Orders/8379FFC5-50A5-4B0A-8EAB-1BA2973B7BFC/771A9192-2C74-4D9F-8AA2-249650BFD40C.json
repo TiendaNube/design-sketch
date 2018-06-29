@@ -24,22 +24,29 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 1,
-  "masterInfluenceEdgeMaxXPadding": 0,
-  "masterInfluenceEdgeMaxYPadding": 0,
-  "masterInfluenceEdgeMinXPadding": 0,
-  "masterInfluenceEdgeMinYPadding": 0,
   "name": "orders-status copy 7",
   "nameIsFixed": false,
-  "overrides": {
-    "772FB61A-32EA-48F7-BC0A-46E8A1B5035B": {
-      "symbolID": "5BEB87E4-C1ED-4A53-A7D9-7AB4A89C9242"
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "A1969E1C-D4BE-40CC-98CC-FB8A0459937B_stringValue",
+      "value": "Pedido en camino"
     },
-    "A1969E1C-D4BE-40CC-98CC-FB8A0459937B": "Pedido en camino",
-    "E5665444-3025-4990-A26F-2496284121CF": "Mercado Envíos - Medio de envío"
-  },
+    {
+      "_class": "overrideValue",
+      "overrideName": "772FB61A-32EA-48F7-BC0A-46E8A1B5035B_symbolID",
+      "value": "5BEB87E4-C1ED-4A53-A7D9-7AB4A89C9242"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "E5665444-3025-4990-A26F-2496284121CF_stringValue",
+      "value": "Mercado Envíos - Medio de envío"
+    }
+  ],
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 0,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",

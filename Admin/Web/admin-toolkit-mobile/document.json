@@ -41,6 +41,13 @@
       {
         "_class": "color",
         "alpha": 1,
+        "blue": 0.1803921568627451,
+        "green": 0.1803921568627451,
+        "red": 0.7725490196078432
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
         "blue": 0.2392156862745098,
         "green": 0.2392156862745098,
         "red": 0.2392156862745098
@@ -98,10 +105,13 @@
     "images": [
     ]
   },
+  "colorSpace": 0,
   "do_objectID": "9505AE62-8240-4D09-93DD-D9B678A8BEE1",
-  "enableLayerInteraction": true,
-  "enableSliceInteraction": true,
+  "foreignLayerStyles": [
+  ],
   "foreignSymbols": [
+  ],
+  "foreignTextStyles": [
   ],
   "layerSymbols": {
     "_class": "symbolContainer",
@@ -109,14 +119,15 @@
     ]
   },
   "meta": {
-    "appVersion": "46.2",
-    "build": 44496,
-    "version": 93
+    "appVersion": "50.2",
+    "build": 55047,
+    "version": 103
   },
   "pages": [
-    "Symbols",
-    "Components",
+    "Atoms-z",
+    "Molecules-z",
+    "toolkit-z",
     "Orders",
-    "P"
+    "Canais de venda"
   ]
 }

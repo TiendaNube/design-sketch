@@ -1,0 +1,63 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "91AC0D43-96DA-4DD8-A5CF-C30B2AF2ECE1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "7B20F578-2FA5-45ED-A64E-301BD167BDC7",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "0B6AAC57-D391-44E3-ABCF-0E4C068718CD",
+    "height": 40,
+    "width": 252,
+    "x": 0,
+    "y": 374
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "name": "link-item-menu copy 7",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "30BEE695-1745-4BF4-A65D-8731FE1770CC_stringValue",
+      "value": "Ajuda"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "54320170-CCD2-4E8B-88CB-3A950C2DC435_symbolID",
+      "value": "959C61F3-A03D-4A70-906A-FFFC8E82E905"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "6CE87174-C0A2-48B3-8010-11AD5B464E3D",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "42E98653-5ACE-478E-9A9D-9FA8F9F8F3F8",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

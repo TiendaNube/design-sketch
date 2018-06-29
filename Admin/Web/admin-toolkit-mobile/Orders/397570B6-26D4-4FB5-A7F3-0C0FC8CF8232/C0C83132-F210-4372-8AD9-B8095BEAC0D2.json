@@ -24,22 +24,29 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 1,
-  "masterInfluenceEdgeMaxXPadding": 0,
-  "masterInfluenceEdgeMaxYPadding": 0,
-  "masterInfluenceEdgeMinXPadding": 0,
-  "masterInfluenceEdgeMinYPadding": 0,
   "name": "orders-status copy 5",
   "nameIsFixed": false,
-  "overrides": {
-    "772FB61A-32EA-48F7-BC0A-46E8A1B5035B": {
-      "symbolID": "265874E9-9346-4253-AF4B-4FD618C84A4C"
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "E5665444-3025-4990-A26F-2496284121CF_stringValue",
+      "value": "Frete"
     },
-    "A1969E1C-D4BE-40CC-98CC-FB8A0459937B": "Esperando a confirmação de envio",
-    "E5665444-3025-4990-A26F-2496284121CF": "Frete"
-  },
+    {
+      "_class": "overrideValue",
+      "overrideName": "A1969E1C-D4BE-40CC-98CC-FB8A0459937B_stringValue",
+      "value": "Esperando a confirmação de envio"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "772FB61A-32EA-48F7-BC0A-46E8A1B5035B_symbolID",
+      "value": "265874E9-9346-4253-AF4B-4FD618C84A4C"
+    }
+  ],
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 0,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
