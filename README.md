@@ -20,5 +20,5 @@ The idea of this repository is to keep all the Tienda Nube sketch system organiz
 - Admin Android app
 -- Here you can find all the assets for the Android app. 
 - [Font Awesome 5](https://drive.google.com/open?id=1D5E-aVypjpdZRrwdiz39lEBAMJBhthaW)
--- Here you can find a sketch file with font awesome 5 as symbols and all svg icons separated to use individually. ps.: restrict access to Tienda Nube / Nuvem Shop team.
+-- Here you can find a Sketch file with Font Awesome 5 as symbols and all SVG icons separated to use individually. P.S.: Restrict access to the Tienda Nube / Nuvem Shop team.
 
