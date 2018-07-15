@@ -1,0 +1,90 @@
+{
+  "_class": "group",
+  "do_objectID": "E10AE3BA-9AF2-42BA-BB61-512944565B45",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "3C683DA8-3837-4C54-9551-EBD7A98F9B31",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "882B9182-EDA2-43C1-9887-D465CDB8D59A",
+    "height": 269,
+    "width": 1224,
+    "x": -692,
+    "y": 1401
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "0FE47EA0-1048-422E-A786-BCE47E43CD8D"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "213FE136-A833-4637-9A62-D454062BCF15"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "6C62DB92-194B-4F07-84BC-48D35E14C9BF"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "82DB27F6-1E3D-4B66-AFE1-62E03378258F"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "2FA3B287-876D-4136-8D40-06EF47129677"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "16AC9C64-11DE-43EB-8FB6-965C21E8D42F"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "24B13262-4C02-4471-8652-59CA280CBC78"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "2016FC46-DFD2-4989-8A0A-CFCD3CE9A29D"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "DC17F6B9-BE18-42F2-A9C1-1BD565CB8648"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "02F677F7-FA7F-4D4F-8D4C-D39C138A344C"
+    }
+  ],
+  "name": "graphic",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "do_objectID": "5A197E5E-0423-4A0F-9723-408695DF8436",
+      "opacity": 0.1629464285714286
+    },
+    "do_objectID": "D8C988E0-EAC3-4ABC-BCB9-C4D48B16CA67",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

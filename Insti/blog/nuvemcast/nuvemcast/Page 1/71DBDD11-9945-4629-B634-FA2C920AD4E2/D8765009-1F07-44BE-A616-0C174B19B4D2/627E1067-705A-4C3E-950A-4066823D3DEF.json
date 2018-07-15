@@ -1,0 +1,65 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "627E1067-705A-4C3E-950A-4066823D3DEF",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B3386EBC-165E-4F12-9F58-058629555B1A",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "00B6484D-F271-425E-B436-E22482769018",
+    "height": 115,
+    "width": 178,
+    "x": 641,
+    "y": 86
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "numeros copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "9B58A9C9-A32D-46F7-A8C7-B1823FEB16FA",
+      "overrideName": "A4D3D38B-8F5F-4167-BA6B-093B26D0C7DA_stringValue",
+      "value": "6"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "FFBFC510-CCA3-4D59-8D78-E0D2A3A876F4",
+      "overrideName": "66D809C1-CB53-41E8-93B8-5321E36D62E1_stringValue",
+      "value": "Convidados"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "012BFD2F-2F03-41A0-8E43-4384F05B7CC3",
+      "overrideName": "B84CB684-1B3E-4FFF-AA08-1BC6805FDF51_stringValue",
+      "value": ""
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "DD1C2FE2-DD4B-4295-B62F-0D11DDF3FB38",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "4E837993-8257-4C07-8F8C-3EAE3E21DD8B",
+  "verticalSpacing": 0
+}
