@@ -26,24 +26,12 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "shapeGroup",
-      "id": "6098E072-3A58-4AF5-939D-680DF997B469"
-    },
-    {
       "class": "symbolInstance",
       "id": "CFB24529-842E-4758-800E-B0750C63A1EC"
     },
     {
       "class": "text",
       "id": "E8D2682E-5518-4453-9685-E279C69BE9FC"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "A66EC37F-917C-4D3C-8424-75281DA985C0"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "70E91F14-9428-4224-B3B0-842C14FAB98E"
     },
     {
       "class": "text",
@@ -56,10 +44,6 @@
     {
       "class": "text",
       "id": "772E3DF3-5338-42B6-AF0F-5E1088F5A09F"
-    },
-    {
-      "class": "group",
-      "id": "3DC2D510-22E7-4507-A4F7-CDDB395339D0"
     }
   ],
   "name": "Cell/Message Copy",
