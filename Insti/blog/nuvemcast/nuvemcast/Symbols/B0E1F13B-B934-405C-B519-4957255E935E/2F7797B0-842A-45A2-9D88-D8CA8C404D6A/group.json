@@ -1,0 +1,56 @@
+{
+  "_class": "group",
+  "do_objectID": "2F7797B0-842A-45A2-9D88-D8CA8C404D6A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "556EB5B0-CDA4-4164-9336-DF469F697B5E",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "CB124D72-8A10-4DB6-AEC3-63A0F15C6DFC",
+    "height": 28,
+    "width": 85,
+    "x": 206,
+    "y": 267
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "996426C9-B6AC-4568-8C0C-BF41257DD331"
+    },
+    {
+      "class": "text",
+      "id": "2CE3AD6D-B20F-4C6C-BC39-EE3605E47C59"
+    },
+    {
+      "class": "text",
+      "id": "6E0453CD-9925-46CE-8F2B-A3EA4611BB82"
+    }
+  ],
+  "name": "Youtube",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "70EA785F-C50E-47F4-88C6-BFA459B68E14",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}
